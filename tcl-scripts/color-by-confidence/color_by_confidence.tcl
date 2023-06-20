@@ -1,6 +1,6 @@
 # Load the protein structure
-set structure_file "data/unrelaxed_model_1_multimer_v2_pred_0.pdb"
-set color_file "data/result_model_1_multimer_v2_pred_0_vmd.csv"
+set structure_file "example-data/relaxed_model_3_multimer_v3_pred_3.pdb"
+set color_file "example-data/result_model_3_multimer_v3_pred_3_vmd.csv"
 
 # load in new file and set its molid
 mol new $structure_file

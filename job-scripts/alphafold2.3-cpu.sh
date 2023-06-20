@@ -7,10 +7,6 @@
 #SBATCH --partition=caslake
 #SBATCH --mem=64G
 
-# This file is intened to be used for a custom build of AlphaFold v2.3.0.
-# The path to the executable, database, and run-alphafold directory must 
-# be specified within the script.
-
 # load so we can load conda locally
 module load alphafold/2.2.0 cuda/11.3
 conda activate alphafold-2.3
@@ -54,9 +50,6 @@ echo "Alphafold executable: $ALPHAFOLD_EXE"
 echo "Data directory: $data_dir"
 echo "Output directory: $output_dir"
 echo "Fasta files: $fasta_path"
-echo "Running with CPU
-echo "Started job at $date"
-echo ""
 
 # This is the only way to get the script to work
 cd $ALPHAFOLD_DIR
