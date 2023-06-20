@@ -53,6 +53,9 @@ echo "Alphafold executable: $ALPHAFOLD_EXE"
 echo "Data directory: $data_dir"
 echo "Output directory: $output_dir"
 echo "Fasta files: $fasta_path"
+echo "Running with GPU"
+echo "Started job at $date"
+echo ""
 
 # This is the only way to get the script to work
 cd $ALPHAFOLD_DIR
