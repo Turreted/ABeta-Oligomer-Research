@@ -10,6 +10,10 @@
 #SBATCH --constraint=v100
 #SBATCH --mem=64G
 
+# This file is intened to be used for a custom build of AlphaFold v2.3.0.
+# The path to the executable, database, and run-alphafold directory must 
+# be specified within the script.
+
 # load so we can load conda locally
 module load alphafold/2.2.0 cuda/11.3
 conda activate alphafold-2.3

@@ -7,10 +7,6 @@
 #SBATCH --partition=caslake
 #SBATCH --mem=64G
 
-# This file is intened to be used for a custom build of AlphaFold v2.3.0.
-# The path to the executable, database, and run-alphafold directory must 
-# be specified within the script.
-
 module load alphafold/2.2.0 cuda/11.3
 
 # This file is intened to be used for the default run_alphafold script installed
