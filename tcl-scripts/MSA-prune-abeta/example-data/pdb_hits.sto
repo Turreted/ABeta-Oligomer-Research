@@ -1,0 +1,2084 @@
+# STOCKHOLM 1.0
+#=GF ID query
+#=GF AU hmmsearch (HMMER 3.3.2)
+
+#=GS 1aml_A/1-40    DE [subseq from] mol:protein length:40  AMYLOID A4
+#=GS 1ba4_A/1-40    DE [subseq from] mol:protein length:40  AMYLOID BETA-PEPTIDE
+#=GS 1ba6_A/1-40    DE [subseq from] mol:protein length:40  AMYLOID BETA-PEPTIDE
+#=GS 2g47_C/1-40    DE [subseq from] mol:protein length:40  amyloid protein beta A4
+#=GS 2g47_D/1-40    DE [subseq from] mol:protein length:40  amyloid protein beta A4
+#=GS 2lfm_A/1-40    DE [subseq from] mol:protein length:40  Beta-amyloid protein 40
+#=GS 2lmn_A/1-40    DE [subseq from] mol:protein length:40  Beta-amyloid protein 40
+#=GS 2lmn_B/1-40    DE [subseq from] mol:protein length:40  Beta-amyloid protein 40
+#=GS 2lmn_C/1-40    DE [subseq from] mol:protein length:40  Beta-amyloid protein 40
+#=GS 2lmn_D/1-40    DE [subseq from] mol:protein length:40  Beta-amyloid protein 40
+#=GS 2lmn_E/1-40    DE [subseq from] mol:protein length:40  Beta-amyloid protein 40
+#=GS 2lmn_F/1-40    DE [subseq from] mol:protein length:40  Beta-amyloid protein 40
+#=GS 2lmn_G/1-40    DE [subseq from] mol:protein length:40  Beta-amyloid protein 40
+#=GS 2lmn_H/1-40    DE [subseq from] mol:protein length:40  Beta-amyloid protein 40
+#=GS 2lmn_I/1-40    DE [subseq from] mol:protein length:40  Beta-amyloid protein 40
+#=GS 2lmn_J/1-40    DE [subseq from] mol:protein length:40  Beta-amyloid protein 40
+#=GS 2lmn_K/1-40    DE [subseq from] mol:protein length:40  Beta-amyloid protein 40
+#=GS 2lmn_L/1-40    DE [subseq from] mol:protein length:40  Beta-amyloid protein 40
+#=GS 2lmo_A/1-40    DE [subseq from] mol:protein length:40  Beta-amyloid protein 40
+#=GS 2lmo_B/1-40    DE [subseq from] mol:protein length:40  Beta-amyloid protein 40
+#=GS 2lmo_C/1-40    DE [subseq from] mol:protein length:40  Beta-amyloid protein 40
+#=GS 2lmo_D/1-40    DE [subseq from] mol:protein length:40  Beta-amyloid protein 40
+#=GS 2lmo_E/1-40    DE [subseq from] mol:protein length:40  Beta-amyloid protein 40
+#=GS 2lmo_F/1-40    DE [subseq from] mol:protein length:40  Beta-amyloid protein 40
+#=GS 2lmo_G/1-40    DE [subseq from] mol:protein length:40  Beta-amyloid protein 40
+#=GS 2lmo_H/1-40    DE [subseq from] mol:protein length:40  Beta-amyloid protein 40
+#=GS 2lmo_I/1-40    DE [subseq from] mol:protein length:40  Beta-amyloid protein 40
+#=GS 2lmo_J/1-40    DE [subseq from] mol:protein length:40  Beta-amyloid protein 40
+#=GS 2lmo_K/1-40    DE [subseq from] mol:protein length:40  Beta-amyloid protein 40
+#=GS 2lmo_L/1-40    DE [subseq from] mol:protein length:40  Beta-amyloid protein 40
+#=GS 2lmp_A/1-40    DE [subseq from] mol:protein length:40  Beta-amyloid protein 40
+#=GS 2lmp_B/1-40    DE [subseq from] mol:protein length:40  Beta-amyloid protein 40
+#=GS 2lmp_C/1-40    DE [subseq from] mol:protein length:40  Beta-amyloid protein 40
+#=GS 2lmp_D/1-40    DE [subseq from] mol:protein length:40  Beta-amyloid protein 40
+#=GS 2lmp_E/1-40    DE [subseq from] mol:protein length:40  Beta-amyloid protein 40
+#=GS 2lmp_F/1-40    DE [subseq from] mol:protein length:40  Beta-amyloid protein 40
+#=GS 2lmp_G/1-40    DE [subseq from] mol:protein length:40  Beta-amyloid protein 40
+#=GS 2lmp_H/1-40    DE [subseq from] mol:protein length:40  Beta-amyloid protein 40
+#=GS 2lmp_I/1-40    DE [subseq from] mol:protein length:40  Beta-amyloid protein 40
+#=GS 2lmp_J/1-40    DE [subseq from] mol:protein length:40  Beta-amyloid protein 40
+#=GS 2lmp_K/1-40    DE [subseq from] mol:protein length:40  Beta-amyloid protein 40
+#=GS 2lmp_L/1-40    DE [subseq from] mol:protein length:40  Beta-amyloid protein 40
+#=GS 2lmp_M/1-40    DE [subseq from] mol:protein length:40  Beta-amyloid protein 40
+#=GS 2lmp_N/1-40    DE [subseq from] mol:protein length:40  Beta-amyloid protein 40
+#=GS 2lmp_O/1-40    DE [subseq from] mol:protein length:40  Beta-amyloid protein 40
+#=GS 2lmp_P/1-40    DE [subseq from] mol:protein length:40  Beta-amyloid protein 40
+#=GS 2lmp_Q/1-40    DE [subseq from] mol:protein length:40  Beta-amyloid protein 40
+#=GS 2lmp_R/1-40    DE [subseq from] mol:protein length:40  Beta-amyloid protein 40
+#=GS 2lmq_A/1-40    DE [subseq from] mol:protein length:40  Beta-amyloid protein 40
+#=GS 2lmq_B/1-40    DE [subseq from] mol:protein length:40  Beta-amyloid protein 40
+#=GS 2lmq_C/1-40    DE [subseq from] mol:protein length:40  Beta-amyloid protein 40
+#=GS 2lmq_D/1-40    DE [subseq from] mol:protein length:40  Beta-amyloid protein 40
+#=GS 2lmq_E/1-40    DE [subseq from] mol:protein length:40  Beta-amyloid protein 40
+#=GS 2lmq_F/1-40    DE [subseq from] mol:protein length:40  Beta-amyloid protein 40
+#=GS 2lmq_G/1-40    DE [subseq from] mol:protein length:40  Beta-amyloid protein 40
+#=GS 2lmq_H/1-40    DE [subseq from] mol:protein length:40  Beta-amyloid protein 40
+#=GS 2lmq_I/1-40    DE [subseq from] mol:protein length:40  Beta-amyloid protein 40
+#=GS 2lmq_J/1-40    DE [subseq from] mol:protein length:40  Beta-amyloid protein 40
+#=GS 2lmq_K/1-40    DE [subseq from] mol:protein length:40  Beta-amyloid protein 40
+#=GS 2lmq_L/1-40    DE [subseq from] mol:protein length:40  Beta-amyloid protein 40
+#=GS 2lmq_M/1-40    DE [subseq from] mol:protein length:40  Beta-amyloid protein 40
+#=GS 2lmq_N/1-40    DE [subseq from] mol:protein length:40  Beta-amyloid protein 40
+#=GS 2lmq_O/1-40    DE [subseq from] mol:protein length:40  Beta-amyloid protein 40
+#=GS 2lmq_P/1-40    DE [subseq from] mol:protein length:40  Beta-amyloid protein 40
+#=GS 2lmq_Q/1-40    DE [subseq from] mol:protein length:40  Beta-amyloid protein 40
+#=GS 2lmq_R/1-40    DE [subseq from] mol:protein length:40  Beta-amyloid protein 40
+#=GS 2m4j_A/1-40    DE [subseq from] mol:protein length:40  Amyloid beta A4 protein
+#=GS 2m4j_B/1-40    DE [subseq from] mol:protein length:40  Amyloid beta A4 protein
+#=GS 2m4j_C/1-40    DE [subseq from] mol:protein length:40  Amyloid beta A4 protein
+#=GS 2m4j_D/1-40    DE [subseq from] mol:protein length:40  Amyloid beta A4 protein
+#=GS 2m4j_E/1-40    DE [subseq from] mol:protein length:40  Amyloid beta A4 protein
+#=GS 2m4j_F/1-40    DE [subseq from] mol:protein length:40  Amyloid beta A4 protein
+#=GS 2m4j_G/1-40    DE [subseq from] mol:protein length:40  Amyloid beta A4 protein
+#=GS 2m4j_H/1-40    DE [subseq from] mol:protein length:40  Amyloid beta A4 protein
+#=GS 2m4j_I/1-40    DE [subseq from] mol:protein length:40  Amyloid beta A4 protein
+#=GS 2m9r_A/1-40    DE [subseq from] mol:protein length:40  Amyloid beta A4 protein
+#=GS 2m9s_A/1-40    DE [subseq from] mol:protein length:40  Amyloid beta A4 protein
+#=GS 2otk_C/1-40    DE [subseq from] mol:protein length:40  Amyloid beta A4 protein
+#=GS 3ifn_P/1-40    DE [subseq from] mol:protein length:40  Amyloid beta A4 protein
+#=GS 4m1c_G/1-40    DE [subseq from] mol:protein length:40  Amyloid beta A4 protein
+#=GS 4m1c_H/1-40    DE [subseq from] mol:protein length:40  Amyloid beta A4 protein
+#=GS 4mvi_B/1-40    DE [subseq from] mol:protein length:40  Beta-amyloid protein 40
+#=GS 4mvl_E/1-40    DE [subseq from] mol:protein length:40  Beta-amyloid protein 40
+#=GS 4mvl_F/1-40    DE [subseq from] mol:protein length:40  Beta-amyloid protein 40
+#=GS 4mvl_G/1-40    DE [subseq from] mol:protein length:40  Beta-amyloid protein 40
+#=GS 4mvl_H/1-40    DE [subseq from] mol:protein length:40  Beta-amyloid protein 40
+#=GS 4nge_B/1-40    DE [subseq from] mol:protein length:40  Beta-amyloid protein 40
+#=GS 4nge_E/1-40    DE [subseq from] mol:protein length:40  Beta-amyloid protein 40
+#=GS 4ong_P/1-40    DE [subseq from] mol:protein length:40  Amyloid beta A4 protein
+#=GS 6oc9_A/1-40    DE [subseq from] mol:protein length:40  Amyloid-beta precursor protein
+#=GS 6oc9_B/1-40    DE [subseq from] mol:protein length:40  Amyloid-beta precursor protein
+#=GS 6oc9_C/1-40    DE [subseq from] mol:protein length:40  Amyloid-beta precursor protein
+#=GS 6oc9_D/1-40    DE [subseq from] mol:protein length:40  Amyloid-beta precursor protein
+#=GS 6oc9_E/1-40    DE [subseq from] mol:protein length:40  Amyloid-beta precursor protein
+#=GS 6oc9_F/1-40    DE [subseq from] mol:protein length:40  Amyloid-beta precursor protein
+#=GS 6oc9_G/1-40    DE [subseq from] mol:protein length:40  Amyloid-beta precursor protein
+#=GS 6oc9_H/1-40    DE [subseq from] mol:protein length:40  Amyloid-beta precursor protein
+#=GS 6oc9_I/1-40    DE [subseq from] mol:protein length:40  Amyloid-beta precursor protein
+#=GS 6oc9_J/1-40    DE [subseq from] mol:protein length:40  Amyloid-beta precursor protein
+#=GS 6shs_A/1-40    DE [subseq from] mol:protein length:40  Amyloid-beta precursor protein
+#=GS 6shs_B/1-40    DE [subseq from] mol:protein length:40  Amyloid-beta precursor protein
+#=GS 6shs_C/1-40    DE [subseq from] mol:protein length:40  Amyloid-beta precursor protein
+#=GS 6shs_D/1-40    DE [subseq from] mol:protein length:40  Amyloid-beta precursor protein
+#=GS 6shs_E/1-40    DE [subseq from] mol:protein length:40  Amyloid-beta precursor protein
+#=GS 6shs_F/1-40    DE [subseq from] mol:protein length:40  Amyloid-beta precursor protein
+#=GS 6shs_G/1-40    DE [subseq from] mol:protein length:40  Amyloid-beta precursor protein
+#=GS 6shs_H/1-40    DE [subseq from] mol:protein length:40  Amyloid-beta precursor protein
+#=GS 6shs_I/1-40    DE [subseq from] mol:protein length:40  Amyloid-beta precursor protein
+#=GS 6shs_J/1-40    DE [subseq from] mol:protein length:40  Amyloid-beta precursor protein
+#=GS 6shs_K/1-40    DE [subseq from] mol:protein length:40  Amyloid-beta precursor protein
+#=GS 6shs_L/1-40    DE [subseq from] mol:protein length:40  Amyloid-beta precursor protein
+#=GS 6ti5_A/1-40    DE [subseq from] mol:protein length:40  Amyloid-beta precursor protein
+#=GS 6ti5_B/1-40    DE [subseq from] mol:protein length:40  Amyloid-beta precursor protein
+#=GS 6ti5_C/1-40    DE [subseq from] mol:protein length:40  Amyloid-beta precursor protein
+#=GS 6ti5_D/1-40    DE [subseq from] mol:protein length:40  Amyloid-beta precursor protein
+#=GS 6ti5_E/1-40    DE [subseq from] mol:protein length:40  Amyloid-beta precursor protein
+#=GS 6ti5_F/1-40    DE [subseq from] mol:protein length:40  Amyloid-beta precursor protein
+#=GS 6ti5_G/1-40    DE [subseq from] mol:protein length:40  Amyloid-beta precursor protein
+#=GS 6ti5_H/1-40    DE [subseq from] mol:protein length:40  Amyloid-beta precursor protein
+#=GS 6ti5_I/1-40    DE [subseq from] mol:protein length:40  Amyloid-beta precursor protein
+#=GS 6ti5_J/1-40    DE [subseq from] mol:protein length:40  Amyloid-beta precursor protein
+#=GS 6ti5_K/1-40    DE [subseq from] mol:protein length:40  Amyloid-beta precursor protein
+#=GS 6ti5_L/1-40    DE [subseq from] mol:protein length:40  Amyloid-beta precursor protein
+#=GS 6ti5_M/1-40    DE [subseq from] mol:protein length:40  Amyloid-beta precursor protein
+#=GS 6ti5_N/1-40    DE [subseq from] mol:protein length:40  Amyloid-beta precursor protein
+#=GS 6ti5_O/1-40    DE [subseq from] mol:protein length:40  Amyloid-beta precursor protein
+#=GS 6ti5_P/1-40    DE [subseq from] mol:protein length:40  Amyloid-beta precursor protein
+#=GS 6ti6_A/1-40    DE [subseq from] mol:protein length:40  Amyloid-beta precursor protein
+#=GS 6ti6_C/1-40    DE [subseq from] mol:protein length:40  Amyloid-beta precursor protein
+#=GS 6ti6_E/1-40    DE [subseq from] mol:protein length:40  Amyloid-beta precursor protein
+#=GS 6ti6_G/1-40    DE [subseq from] mol:protein length:40  Amyloid-beta precursor protein
+#=GS 6ti6_I/1-40    DE [subseq from] mol:protein length:40  Amyloid-beta precursor protein
+#=GS 6ti6_K/1-40    DE [subseq from] mol:protein length:40  Amyloid-beta precursor protein
+#=GS 6ti6_M/1-40    DE [subseq from] mol:protein length:40  Amyloid-beta precursor protein
+#=GS 6ti6_O/1-40    DE [subseq from] mol:protein length:40  Amyloid-beta precursor protein
+#=GS 6ti7_A/1-40    DE [subseq from] mol:protein length:40  Amyloid-beta precursor protein
+#=GS 6ti7_C/1-40    DE [subseq from] mol:protein length:40  Amyloid-beta precursor protein
+#=GS 6ti7_E/1-40    DE [subseq from] mol:protein length:40  Amyloid-beta precursor protein
+#=GS 6ti7_G/1-40    DE [subseq from] mol:protein length:40  Amyloid-beta precursor protein
+#=GS 6ti7_J/1-40    DE [subseq from] mol:protein length:40  Amyloid-beta precursor protein
+#=GS 6ti7_L/1-40    DE [subseq from] mol:protein length:40  Amyloid-beta precursor protein
+#=GS 6ti7_N/1-40    DE [subseq from] mol:protein length:40  Amyloid-beta precursor protein
+#=GS 6ti7_P/1-40    DE [subseq from] mol:protein length:40  Amyloid-beta precursor protein
+#=GS 6w0o_1/1-40    DE [subseq from] mol:protein length:40  Amyloid-beta precursor protein
+#=GS 6w0o_2/1-40    DE [subseq from] mol:protein length:40  Amyloid-beta precursor protein
+#=GS 6w0o_3/1-40    DE [subseq from] mol:protein length:40  Amyloid-beta precursor protein
+#=GS 6w0o_4/1-40    DE [subseq from] mol:protein length:40  Amyloid-beta precursor protein
+#=GS 6w0o_5/1-40    DE [subseq from] mol:protein length:40  Amyloid-beta precursor protein
+#=GS 6w0o_6/1-40    DE [subseq from] mol:protein length:40  Amyloid-beta precursor protein
+#=GS 6xov_B/1-40    DE [subseq from] mol:protein length:40  Amyloid-beta precursor protein
+#=GS 1iyt_A/1-40    DE [subseq from] mol:protein length:42  Alzheimer's disease amyloid
+#=GS 1z0q_A/1-40    DE [subseq from] mol:protein length:42  Alzheimer's disease amyloid
+#=GS 2beg_A/1-40    DE [subseq from] mol:protein length:42  Amyloid beta A4 protein
+#=GS 2beg_B/1-40    DE [subseq from] mol:protein length:42  Amyloid beta A4 protein
+#=GS 2beg_C/1-40    DE [subseq from] mol:protein length:42  Amyloid beta A4 protein
+#=GS 2beg_D/1-40    DE [subseq from] mol:protein length:42  Amyloid beta A4 protein
+#=GS 2beg_E/1-40    DE [subseq from] mol:protein length:42  Amyloid beta A4 protein
+#=GS 2mxu_A/1-40    DE [subseq from] mol:protein length:42  Amyloid beta A4 protein
+#=GS 2mxu_B/1-40    DE [subseq from] mol:protein length:42  Amyloid beta A4 protein
+#=GS 2mxu_C/1-40    DE [subseq from] mol:protein length:42  Amyloid beta A4 protein
+#=GS 2mxu_D/1-40    DE [subseq from] mol:protein length:42  Amyloid beta A4 protein
+#=GS 2mxu_E/1-40    DE [subseq from] mol:protein length:42  Amyloid beta A4 protein
+#=GS 2mxu_F/1-40    DE [subseq from] mol:protein length:42  Amyloid beta A4 protein
+#=GS 2mxu_G/1-40    DE [subseq from] mol:protein length:42  Amyloid beta A4 protein
+#=GS 2mxu_H/1-40    DE [subseq from] mol:protein length:42  Amyloid beta A4 protein
+#=GS 2mxu_I/1-40    DE [subseq from] mol:protein length:42  Amyloid beta A4 protein
+#=GS 2mxu_J/1-40    DE [subseq from] mol:protein length:42  Amyloid beta A4 protein
+#=GS 2mxu_K/1-40    DE [subseq from] mol:protein length:42  Amyloid beta A4 protein
+#=GS 2mxu_L/1-40    DE [subseq from] mol:protein length:42  Amyloid beta A4 protein
+#=GS 2nao_A/1-40    DE [subseq from] mol:protein length:42  Beta-amyloid protein 42
+#=GS 2nao_B/1-40    DE [subseq from] mol:protein length:42  Beta-amyloid protein 42
+#=GS 2nao_C/1-40    DE [subseq from] mol:protein length:42  Beta-amyloid protein 42
+#=GS 2nao_D/1-40    DE [subseq from] mol:protein length:42  Beta-amyloid protein 42
+#=GS 2nao_E/1-40    DE [subseq from] mol:protein length:42  Beta-amyloid protein 42
+#=GS 2nao_F/1-40    DE [subseq from] mol:protein length:42  Beta-amyloid protein 42
+#=GS 2wk3_C/1-40    DE [subseq from] mol:protein length:42  BETA-AMYLOID PROTEIN 42
+#=GS 2wk3_D/1-40    DE [subseq from] mol:protein length:42  BETA-AMYLOID PROTEIN 42
+#=GS 5kk3_A/1-40    DE [subseq from] mol:protein length:42  Beta-amyloid protein 42
+#=GS 5kk3_B/1-40    DE [subseq from] mol:protein length:42  Beta-amyloid protein 42
+#=GS 5kk3_C/1-40    DE [subseq from] mol:protein length:42  Beta-amyloid protein 42
+#=GS 5kk3_D/1-40    DE [subseq from] mol:protein length:42  Beta-amyloid protein 42
+#=GS 5kk3_E/1-40    DE [subseq from] mol:protein length:42  Beta-amyloid protein 42
+#=GS 5kk3_F/1-40    DE [subseq from] mol:protein length:42  Beta-amyloid protein 42
+#=GS 5kk3_G/1-40    DE [subseq from] mol:protein length:42  Beta-amyloid protein 42
+#=GS 5kk3_H/1-40    DE [subseq from] mol:protein length:42  Beta-amyloid protein 42
+#=GS 5kk3_I/1-40    DE [subseq from] mol:protein length:42  Beta-amyloid protein 42
+#=GS 5kk3_J/1-40    DE [subseq from] mol:protein length:42  Beta-amyloid protein 42
+#=GS 5kk3_K/1-40    DE [subseq from] mol:protein length:42  Beta-amyloid protein 42
+#=GS 5kk3_L/1-40    DE [subseq from] mol:protein length:42  Beta-amyloid protein 42
+#=GS 5kk3_M/1-40    DE [subseq from] mol:protein length:42  Beta-amyloid protein 42
+#=GS 5kk3_N/1-40    DE [subseq from] mol:protein length:42  Beta-amyloid protein 42
+#=GS 5kk3_O/1-40    DE [subseq from] mol:protein length:42  Beta-amyloid protein 42
+#=GS 5kk3_P/1-40    DE [subseq from] mol:protein length:42  Beta-amyloid protein 42
+#=GS 5kk3_Q/1-40    DE [subseq from] mol:protein length:42  Beta-amyloid protein 42
+#=GS 5kk3_R/1-40    DE [subseq from] mol:protein length:42  Beta-amyloid protein 42
+#=GS 5oqv_A/1-40    DE [subseq from] mol:protein length:42  Amyloid beta A4 protein
+#=GS 5oqv_B/1-40    DE [subseq from] mol:protein length:42  Amyloid beta A4 protein
+#=GS 5oqv_C/1-40    DE [subseq from] mol:protein length:42  Amyloid beta A4 protein
+#=GS 5oqv_D/1-40    DE [subseq from] mol:protein length:42  Amyloid beta A4 protein
+#=GS 5oqv_E/1-40    DE [subseq from] mol:protein length:42  Amyloid beta A4 protein
+#=GS 5oqv_F/1-40    DE [subseq from] mol:protein length:42  Amyloid beta A4 protein
+#=GS 5oqv_G/1-40    DE [subseq from] mol:protein length:42  Amyloid beta A4 protein
+#=GS 5oqv_H/1-40    DE [subseq from] mol:protein length:42  Amyloid beta A4 protein
+#=GS 5oqv_I/1-40    DE [subseq from] mol:protein length:42  Amyloid beta A4 protein
+#=GS 6rhy_A/1-40    DE [subseq from] mol:protein length:42  Amyloid beta A4 protein
+#=GS 6rhy_B/1-40    DE [subseq from] mol:protein length:42  Amyloid beta A4 protein
+#=GS 6rhy_C/1-40    DE [subseq from] mol:protein length:42  Amyloid beta A4 protein
+#=GS 6rhy_D/1-40    DE [subseq from] mol:protein length:42  Amyloid beta A4 protein
+#=GS 6szf_A/1-40    DE [subseq from] mol:protein length:42  Amyloid-beta precursor protein
+#=GS 6ti6_B/1-40    DE [subseq from] mol:protein length:42  Amyloid-beta precursor protein
+#=GS 6ti6_D/1-40    DE [subseq from] mol:protein length:42  Amyloid-beta precursor protein
+#=GS 6ti6_F/1-40    DE [subseq from] mol:protein length:42  Amyloid-beta precursor protein
+#=GS 6ti6_H/1-40    DE [subseq from] mol:protein length:42  Amyloid-beta precursor protein
+#=GS 6ti6_J/1-40    DE [subseq from] mol:protein length:42  Amyloid-beta precursor protein
+#=GS 6ti6_L/1-40    DE [subseq from] mol:protein length:42  Amyloid-beta precursor protein
+#=GS 6ti6_N/1-40    DE [subseq from] mol:protein length:42  Amyloid-beta precursor protein
+#=GS 6ti6_P/1-40    DE [subseq from] mol:protein length:42  Amyloid-beta precursor protein
+#=GS 6ti7_B/1-40    DE [subseq from] mol:protein length:42  Amyloid-beta precursor protein
+#=GS 6ti7_D/1-40    DE [subseq from] mol:protein length:42  Amyloid-beta precursor protein
+#=GS 6ti7_F/1-40    DE [subseq from] mol:protein length:42  Amyloid-beta precursor protein
+#=GS 6ti7_H/1-40    DE [subseq from] mol:protein length:42  Amyloid-beta precursor protein
+#=GS 6ti7_I/1-40    DE [subseq from] mol:protein length:42  Amyloid-beta precursor protein
+#=GS 6ti7_K/1-40    DE [subseq from] mol:protein length:42  Amyloid-beta precursor protein
+#=GS 6ti7_M/1-40    DE [subseq from] mol:protein length:42  Amyloid-beta precursor protein
+#=GS 6ti7_O/1-40    DE [subseq from] mol:protein length:42  Amyloid-beta precursor protein
+#=GS 7q4b_A/1-40    DE [subseq from] mol:protein length:42  Amyloid-beta precursor protein
+#=GS 7q4b_B/1-40    DE [subseq from] mol:protein length:42  Amyloid-beta precursor protein
+#=GS 7q4b_C/1-40    DE [subseq from] mol:protein length:42  Amyloid-beta precursor protein
+#=GS 7q4b_D/1-40    DE [subseq from] mol:protein length:42  Amyloid-beta precursor protein
+#=GS 7q4b_E/1-40    DE [subseq from] mol:protein length:42  Amyloid-beta precursor protein
+#=GS 7q4b_F/1-40    DE [subseq from] mol:protein length:42  Amyloid-beta precursor protein
+#=GS 7q4b_G/1-40    DE [subseq from] mol:protein length:42  Amyloid-beta precursor protein
+#=GS 7q4b_H/1-40    DE [subseq from] mol:protein length:42  Amyloid-beta precursor protein
+#=GS 7q4b_I/1-40    DE [subseq from] mol:protein length:42  Amyloid-beta precursor protein
+#=GS 7q4b_R/1-40    DE [subseq from] mol:protein length:42  Amyloid-beta precursor protein
+#=GS 7q4m_A/1-40    DE [subseq from] mol:protein length:42  Amyloid-beta precursor protein
+#=GS 7q4m_B/1-40    DE [subseq from] mol:protein length:42  Amyloid-beta precursor protein
+#=GS 7q4m_C/1-40    DE [subseq from] mol:protein length:42  Amyloid-beta precursor protein
+#=GS 7q4m_D/1-40    DE [subseq from] mol:protein length:42  Amyloid-beta precursor protein
+#=GS 7q4m_E/1-40    DE [subseq from] mol:protein length:42  Amyloid-beta precursor protein
+#=GS 7q4m_F/1-40    DE [subseq from] mol:protein length:42  Amyloid-beta precursor protein
+#=GS 7q4m_G/1-40    DE [subseq from] mol:protein length:42  Amyloid-beta precursor protein
+#=GS 7q4m_H/1-40    DE [subseq from] mol:protein length:42  Amyloid-beta precursor protein
+#=GS 7q4m_I/1-40    DE [subseq from] mol:protein length:42  Amyloid-beta precursor protein
+#=GS 7q4m_J/1-40    DE [subseq from] mol:protein length:42  Amyloid-beta precursor protein
+#=GS 7b3j_A/1-40    DE [subseq from] mol:protein length:55  Isoform L-APP677 of Amyloid-beta precursor protein
+#=GS 7b3k_A/1-40    DE [subseq from] mol:protein length:55  Isoform L-APP677 of Amyloid-beta precursor protein
+#=GS 2lp1_A/2-41    DE [subseq from] mol:protein length:122  C99
+#=GS 2lnq_A/1-40    DE [subseq from] mol:protein length:40  P3(40)
+#=GS 2lnq_B/1-40    DE [subseq from] mol:protein length:40  P3(40)
+#=GS 2lnq_C/1-40    DE [subseq from] mol:protein length:40  P3(40)
+#=GS 2lnq_D/1-40    DE [subseq from] mol:protein length:40  P3(40)
+#=GS 2lnq_E/1-40    DE [subseq from] mol:protein length:40  P3(40)
+#=GS 2lnq_F/1-40    DE [subseq from] mol:protein length:40  P3(40)
+#=GS 2lnq_G/1-40    DE [subseq from] mol:protein length:40  P3(40)
+#=GS 2lnq_H/1-40    DE [subseq from] mol:protein length:40  P3(40)
+#=GS 7o1q_A/106-145 DE [subseq from] mol:protein length:293  Alpha-hemolysin hybridized Abeta
+#=GS 7o1q_B/106-145 DE [subseq from] mol:protein length:293  Alpha-hemolysin hybridized Abeta
+#=GS 7o1q_C/106-145 DE [subseq from] mol:protein length:293  Alpha-hemolysin hybridized Abeta
+#=GS 7o1q_D/106-145 DE [subseq from] mol:protein length:293  Alpha-hemolysin hybridized Abeta
+#=GS 7o1q_E/106-145 DE [subseq from] mol:protein length:293  Alpha-hemolysin hybridized Abeta
+#=GS 7o1q_F/106-145 DE [subseq from] mol:protein length:293  Alpha-hemolysin hybridized Abeta
+#=GS 7o1q_G/106-145 DE [subseq from] mol:protein length:293  Alpha-hemolysin hybridized Abeta
+#=GS 5buo_A/304-342 DE [subseq from] mol:protein length:342  Amyloid beta A4 protein
+#=GS 5buo_B/304-342 DE [subseq from] mol:protein length:342  Amyloid beta A4 protein
+#=GS 2mvx_A/1-39    DE [subseq from] mol:protein length:39  Amyloid beta A4 protein
+#=GS 2mvx_B/1-39    DE [subseq from] mol:protein length:39  Amyloid beta A4 protein
+#=GS 2mvx_C/1-39    DE [subseq from] mol:protein length:39  Amyloid beta A4 protein
+#=GS 2mvx_D/1-39    DE [subseq from] mol:protein length:39  Amyloid beta A4 protein
+#=GS 2mvx_E/1-39    DE [subseq from] mol:protein length:39  Amyloid beta A4 protein
+#=GS 2mvx_F/1-39    DE [subseq from] mol:protein length:39  Amyloid beta A4 protein
+#=GS 2mvx_G/1-39    DE [subseq from] mol:protein length:39  Amyloid beta A4 protein
+#=GS 2mvx_H/1-39    DE [subseq from] mol:protein length:39  Amyloid beta A4 protein
+#=GS 2mvx_I/1-39    DE [subseq from] mol:protein length:39  Amyloid beta A4 protein
+#=GS 2mvx_J/1-39    DE [subseq from] mol:protein length:39  Amyloid beta A4 protein
+#=GS 1hz3_A/1-26    DE [subseq from] mol:protein length:26  A-BETA AMYLOID
+#=GS 5aef_A/1-26    DE [subseq from] mol:protein length:28  AMYLOID BETA A4 PROTEIN
+#=GS 5aef_B/1-26    DE [subseq from] mol:protein length:28  AMYLOID BETA A4 PROTEIN
+#=GS 2llm_A/2-28    DE [subseq from] mol:protein length:43  Amyloid beta A4 protein
+#=GS 2loh_A/2-28    DE [subseq from] mol:protein length:43  P3(42)
+#=GS 2loh_B/2-28    DE [subseq from] mol:protein length:43  P3(42)
+#=GS 3moq_A/76-110  DE [subseq from] mol:protein length:126  New antigen receptor variable domain,P3(40) peptide from Amyloid beta A4 protein,New antigen receptor variable domain
+#=GS 3moq_B/76-110  DE [subseq from] mol:protein length:126  New antigen receptor variable domain,P3(40) peptide from Amyloid beta A4 protein,New antigen receptor variable domain
+#=GS 3moq_C/76-110  DE [subseq from] mol:protein length:126  New antigen receptor variable domain,P3(40) peptide from Amyloid beta A4 protein,New antigen receptor variable domain
+#=GS 3moq_D/76-110  DE [subseq from] mol:protein length:126  New antigen receptor variable domain,P3(40) peptide from Amyloid beta A4 protein,New antigen receptor variable domain
+#=GS 2mpz_A/1-26    DE [subseq from] mol:protein length:26  Amyloid beta A4 protein
+#=GS 2mpz_B/1-26    DE [subseq from] mol:protein length:26  Amyloid beta A4 protein
+#=GS 2mpz_C/1-26    DE [subseq from] mol:protein length:26  Amyloid beta A4 protein
+#=GS 2mpz_D/1-26    DE [subseq from] mol:protein length:26  Amyloid beta A4 protein
+#=GS 2mpz_E/1-26    DE [subseq from] mol:protein length:26  Amyloid beta A4 protein
+#=GS 2mpz_F/1-26    DE [subseq from] mol:protein length:26  Amyloid beta A4 protein
+#=GS 2mpz_G/1-26    DE [subseq from] mol:protein length:26  Amyloid beta A4 protein
+#=GS 2mpz_H/1-26    DE [subseq from] mol:protein length:26  Amyloid beta A4 protein
+#=GS 2mpz_I/1-26    DE [subseq from] mol:protein length:26  Amyloid beta A4 protein
+#=GS 2mpz_J/1-26    DE [subseq from] mol:protein length:26  Amyloid beta A4 protein
+#=GS 2mpz_K/1-26    DE [subseq from] mol:protein length:26  Amyloid beta A4 protein
+#=GS 2mpz_L/1-26    DE [subseq from] mol:protein length:26  Amyloid beta A4 protein
+#=GS 2mpz_M/1-26    DE [subseq from] mol:protein length:26  Amyloid beta A4 protein
+#=GS 2mpz_N/1-26    DE [subseq from] mol:protein length:26  Amyloid beta A4 protein
+#=GS 2mpz_O/1-26    DE [subseq from] mol:protein length:26  Amyloid beta A4 protein
+#=GS 2mpz_P/1-26    DE [subseq from] mol:protein length:26  Amyloid beta A4 protein
+#=GS 2mpz_Q/1-26    DE [subseq from] mol:protein length:26  Amyloid beta A4 protein
+#=GS 2mpz_R/1-26    DE [subseq from] mol:protein length:26  Amyloid beta A4 protein
+#=GS 2mpz_S/1-26    DE [subseq from] mol:protein length:26  Amyloid beta A4 protein
+#=GS 2mpz_T/1-26    DE [subseq from] mol:protein length:26  Amyloid beta A4 protein
+#=GS 2mpz_U/1-26    DE [subseq from] mol:protein length:26  Amyloid beta A4 protein
+#=GS 2mpz_V/1-26    DE [subseq from] mol:protein length:26  Amyloid beta A4 protein
+#=GS 2mpz_W/1-26    DE [subseq from] mol:protein length:26  Amyloid beta A4 protein
+#=GS 2mpz_X/1-26    DE [subseq from] mol:protein length:26  Amyloid beta A4 protein
+#=GS 2mpz_Y/1-26    DE [subseq from] mol:protein length:26  Amyloid beta A4 protein
+#=GS 2mpz_Z/1-26    DE [subseq from] mol:protein length:26  Amyloid beta A4 protein
+#=GS 2mpz_a/1-26    DE [subseq from] mol:protein length:26  Amyloid beta A4 protein
+#=GS 1amb_A/1-28    DE [subseq from] mol:protein length:28  AMYLOID BETA-PEPTIDE
+#=GS 1amc_A/1-28    DE [subseq from] mol:protein length:28  AMYLOID BETA-PEPTIDE
+#=GS 3bae_A/1-28    DE [subseq from] mol:protein length:28  Amyloid Beta Peptide
+#=GS 4hix_A/1-28    DE [subseq from] mol:protein length:28  Beta-amyloid protein 40
+#=GS 1bjb_A/1-28    DE [subseq from] mol:protein length:28  AMYLOID BETA-PEPTIDE
+#=GS 6iyc_E/2-25    DE [subseq from] mol:protein length:104  Amyloid-beta A4 protein
+#=GS 1bjc_A/1-28    DE [subseq from] mol:protein length:28  AMYLOID BETA-PEPTIDE
+#=GS 1nmj_A/1-28    DE [subseq from] mol:protein length:28  amyloid beta-peptide from Alzheimer's disease amyloid A4 protein homolog
+#=GS 5hox_A/2-21    DE [subseq from] mol:protein length:21  Amyloid beta A4 protein
+#=GS 5hox_B/2-21    DE [subseq from] mol:protein length:21  Amyloid beta A4 protein
+#=GS 5hox_C/2-21    DE [subseq from] mol:protein length:21  Amyloid beta A4 protein
+#=GS 5hox_D/2-21    DE [subseq from] mol:protein length:21  Amyloid beta A4 protein
+#=GS 5hox_E/2-21    DE [subseq from] mol:protein length:21  Amyloid beta A4 protein
+#=GS 5hox_F/2-21    DE [subseq from] mol:protein length:21  Amyloid beta A4 protein
+#=GS 5hoy_A/2-21    DE [subseq from] mol:protein length:21  Amyloid beta A4 protein
+#=GS 5hoy_B/2-21    DE [subseq from] mol:protein length:21  Amyloid beta A4 protein
+#=GS 5hoy_C/2-21    DE [subseq from] mol:protein length:21  Amyloid beta A4 protein
+#=GS 5hoy_D/2-21    DE [subseq from] mol:protein length:21  Amyloid beta A4 protein
+#=GS 5hoy_E/2-21    DE [subseq from] mol:protein length:21  Amyloid beta A4 protein
+#=GS 5hoy_F/2-21    DE [subseq from] mol:protein length:21  Amyloid beta A4 protein
+#=GS 6wxm_A/2-22    DE [subseq from] mol:protein length:22  Amyloid-beta protein
+#=GS 6wxm_B/2-22    DE [subseq from] mol:protein length:22  Amyloid-beta protein
+#=GS 6wxm_C/2-22    DE [subseq from] mol:protein length:22  Amyloid-beta protein
+#=GS 6wxm_D/2-22    DE [subseq from] mol:protein length:22  Amyloid-beta protein
+#=GS 6wxm_E/2-22    DE [subseq from] mol:protein length:22  Amyloid-beta protein
+#=GS 6wxm_F/2-22    DE [subseq from] mol:protein length:22  Amyloid-beta protein
+#=GS 6wxm_G/2-22    DE [subseq from] mol:protein length:22  Amyloid-beta protein
+#=GS 6wxm_H/2-22    DE [subseq from] mol:protein length:22  Amyloid-beta protein
+#=GS 6wxm_I/2-22    DE [subseq from] mol:protein length:22  Amyloid-beta protein
+#=GS 6wxm_J/2-22    DE [subseq from] mol:protein length:22  Amyloid-beta protein
+#=GS 6wxm_K/2-22    DE [subseq from] mol:protein length:22  Amyloid-beta protein
+#=GS 2mj1_A/1-18    DE [subseq from] mol:protein length:18  Amyloid beta A4 protein
+#=GS 7jxn_A/3-20    DE [subseq from] mol:protein length:21  Amyloid-beta 17-36 peptide
+#=GS 7jxn_B/3-20    DE [subseq from] mol:protein length:21  Amyloid-beta 17-36 peptide
+#=GS 7jxn_C/3-20    DE [subseq from] mol:protein length:21  Amyloid-beta 17-36 peptide
+#=GS 7jxn_D/3-20    DE [subseq from] mol:protein length:21  Amyloid-beta 17-36 peptide
+#=GS 5how_A/2-21    DE [subseq from] mol:protein length:21  Amyloid beta A4 protein
+#=GS 5how_B/2-21    DE [subseq from] mol:protein length:21  Amyloid beta A4 protein
+#=GS 5how_C/2-21    DE [subseq from] mol:protein length:21  Amyloid beta A4 protein
+#=GS 5how_D/2-21    DE [subseq from] mol:protein length:21  Amyloid beta A4 protein
+#=GS 5how_E/2-21    DE [subseq from] mol:protein length:21  Amyloid beta A4 protein
+#=GS 5how_F/2-21    DE [subseq from] mol:protein length:21  Amyloid beta A4 protein
+#=GS 4xxd_C/1-17    DE [subseq from] mol:protein length:17  Amyloid-beta fragment
+#=GS 4xxd_F/1-17    DE [subseq from] mol:protein length:17  Amyloid-beta fragment
+#=GS 7jxo_A/3-20    DE [subseq from] mol:protein length:21  Amyloid-beta 17-36 peptide
+#=GS 7jxo_B/3-20    DE [subseq from] mol:protein length:21  Amyloid-beta 17-36 peptide
+#=GS 7jxo_C/3-20    DE [subseq from] mol:protein length:21  Amyloid-beta 17-36 peptide
+#=GS 6nb9_A/1-15    DE [subseq from] mol:protein length:15  Amyloid-beta A4 protein
+#=GS 6oiz_A/1-15    DE [subseq from] mol:protein length:15  Amyloid beta A4 protein
+#=GS 6yhx_A/1-15    DE [subseq from] mol:protein length:30  Amyloid-beta precursor protein I45T mutant
+#=GS 6yhf_A/1-15    DE [subseq from] mol:protein length:30  Amyloid-beta precursor protein
+#=GS 6yhp_A/1-15    DE [subseq from] mol:protein length:30  Amyloid-beta precursor protein V44M mutant
+#=GS 5vzy_A/1-15    DE [subseq from] mol:protein length:15  Amyloid beta A4 protein
+#=GS 7e6p_A/1-16    DE [subseq from] mol:protein length:16  Amyloid beta fragment with an intramolecular disulfide bond at positions 17 and 28
+#=GS 6yho_A/1-15    DE [subseq from] mol:protein length:30  Amyloid-beta precursor protein G38P mutant
+#=GS 6yhi_A/1-15    DE [subseq from] mol:protein length:30  Amyloid-beta precursor protein G38L mutant
+#=GS 2lz3_A/4-16    DE [subseq from] mol:protein length:31  Amyloid beta A4 protein
+#=GS 2lz3_B/4-16    DE [subseq from] mol:protein length:31  Amyloid beta A4 protein
+#=GS 2lz4_A/4-16    DE [subseq from] mol:protein length:31  Amyloid beta A4 protein
+#=GS 2lz4_B/4-16    DE [subseq from] mol:protein length:31  Amyloid beta A4 protein
+#=GS 1qcm_A/1-11    DE [subseq from] mol:protein length:11  AMYLOID BETA PEPTIDE
+#=GS 1qwp_A/1-11    DE [subseq from] mol:protein length:11  11-mer peptide from Amyloid beta A4 protein
+#=GS 1qxc_A/1-11    DE [subseq from] mol:protein length:11  11-mer peptide from Amyloid beta A4 protein
+#=GS 1qyt_A/1-11    DE [subseq from] mol:protein length:11  11-mer peptide from Amyloid beta A4 protein
+#=GS 5myx_E/2-16    DE [subseq from] mol:protein length:16  Pyroglutamate-Abeta pE3-18
+#=GS 5myx_F/2-16    DE [subseq from] mol:protein length:16  Pyroglutamate-Abeta pE3-18
+#=GS 1ze7_A/2-17    DE [subseq from] mol:protein length:18  16-mer from Alzheimer's disease amyloid Protein
+#=GS 1ze9_A/2-17    DE [subseq from] mol:protein length:18  16-mer from Alzheimer's disease amyloid Protein
+#=GS 5w3p_P/2-17    DE [subseq from] mol:protein length:18  Amyloid beta A4 protein
+#=GS 2bp4_A/1-16    DE [subseq from] mol:protein length:16  AMYLOID BETA A4 PROTEIN
+#=GS 3bkj_A/1-16    DE [subseq from] mol:protein length:16  Amyloid Beta Peptide
+#=GS 5vos_A/1-11    DE [subseq from] mol:protein length:11  Amyloid beta A4 protein
+#=GS 2mgt_A/2-17    DE [subseq from] mol:protein length:18  Amyloid beta A4 protein
+#=GS 2mgt_B/2-17    DE [subseq from] mol:protein length:18  Amyloid beta A4 protein
+#=GS 3u0t_E/1-11    DE [subseq from] mol:protein length:11  Amyloid beta A4 protein
+#=GS 3u0t_F/1-11    DE [subseq from] mol:protein length:11  Amyloid beta A4 protein
+#=GS 6o4j_A/2-12    DE [subseq from] mol:protein length:13  Amyloid-beta precursor protein
+#=GS 6o4j_B/2-12    DE [subseq from] mol:protein length:13  Amyloid-beta precursor protein
+#=GS 4f37_A/1-16    DE [subseq from] mol:protein length:124  Colicin-E7 immunity protein
+#=GS 4f37_B/1-16    DE [subseq from] mol:protein length:124  Colicin-E7 immunity protein
+#=GS 6vu4_A/1-17    DE [subseq from] mol:protein length:17  Beta-hairpin Amyloid-beta precursor peptide mimic
+#=GS 6vu4_C/1-17    DE [subseq from] mol:protein length:17  Beta-hairpin Amyloid-beta precursor peptide mimic
+#=GS 5v65_A/2-16    DE [subseq from] mol:protein length:16  ORN-LEU-VAL-PHI-PHE-ALA-GLU-ASP-ORN-ALA-ILE-ILE-SAR-LEU-MET-VAL
+#=GS 5v65_B/2-16    DE [subseq from] mol:protein length:16  ORN-LEU-VAL-PHI-PHE-ALA-GLU-ASP-ORN-ALA-ILE-ILE-SAR-LEU-MET-VAL
+#=GS 5v65_C/2-16    DE [subseq from] mol:protein length:16  ORN-LEU-VAL-PHI-PHE-ALA-GLU-ASP-ORN-ALA-ILE-ILE-SAR-LEU-MET-VAL
+#=GS 5v65_D/2-16    DE [subseq from] mol:protein length:16  ORN-LEU-VAL-PHI-PHE-ALA-GLU-ASP-ORN-ALA-ILE-ILE-SAR-LEU-MET-VAL
+#=GS 5v65_E/2-16    DE [subseq from] mol:protein length:16  ORN-LEU-VAL-PHI-PHE-ALA-GLU-ASP-ORN-ALA-ILE-ILE-SAR-LEU-MET-VAL
+#=GS 5v65_F/2-16    DE [subseq from] mol:protein length:16  ORN-LEU-VAL-PHI-PHE-ALA-GLU-ASP-ORN-ALA-ILE-ILE-SAR-LEU-MET-VAL
+#=GS 5v65_G/2-16    DE [subseq from] mol:protein length:16  ORN-LEU-VAL-PHI-PHE-ALA-GLU-ASP-ORN-ALA-ILE-ILE-SAR-LEU-MET-VAL
+#=GS 5v65_H/2-16    DE [subseq from] mol:protein length:16  ORN-LEU-VAL-PHI-PHE-ALA-GLU-ASP-ORN-ALA-ILE-ILE-SAR-LEU-MET-VAL
+#=GS 5v65_I/2-16    DE [subseq from] mol:protein length:16  ORN-LEU-VAL-PHI-PHE-ALA-GLU-ASP-ORN-ALA-ILE-ILE-SAR-LEU-MET-VAL
+#=GS 5v65_J/2-16    DE [subseq from] mol:protein length:16  ORN-LEU-VAL-PHI-PHE-ALA-GLU-ASP-ORN-ALA-ILE-ILE-SAR-LEU-MET-VAL
+#=GS 5v65_K/2-16    DE [subseq from] mol:protein length:16  ORN-LEU-VAL-PHI-PHE-ALA-GLU-ASP-ORN-ALA-ILE-ILE-SAR-LEU-MET-VAL
+#=GS 5v65_L/2-16    DE [subseq from] mol:protein length:16  ORN-LEU-VAL-PHI-PHE-ALA-GLU-ASP-ORN-ALA-ILE-ILE-SAR-LEU-MET-VAL
+#=GS 5v65_M/2-16    DE [subseq from] mol:protein length:16  ORN-LEU-VAL-PHI-PHE-ALA-GLU-ASP-ORN-ALA-ILE-ILE-SAR-LEU-MET-VAL
+#=GS 5v65_N/2-16    DE [subseq from] mol:protein length:16  ORN-LEU-VAL-PHI-PHE-ALA-GLU-ASP-ORN-ALA-ILE-ILE-SAR-LEU-MET-VAL
+#=GS 5v65_O/2-16    DE [subseq from] mol:protein length:16  ORN-LEU-VAL-PHI-PHE-ALA-GLU-ASP-ORN-ALA-ILE-ILE-SAR-LEU-MET-VAL
+#=GS 5v65_P/2-16    DE [subseq from] mol:protein length:16  ORN-LEU-VAL-PHI-PHE-ALA-GLU-ASP-ORN-ALA-ILE-ILE-SAR-LEU-MET-VAL
+#=GS 5myk_C/3-16    DE [subseq from] mol:protein length:16  Amyloid beta A4 protein
+#=GS 4ivh_A/2-12    DE [subseq from] mol:protein length:16  cyclo[Gln-Lys-Leu-Val-Phe-Phe-Ala-Glu-Asp-(delta-linked-Orn)-Hao-Lys-Hao-(p-bromoPhe)-Thr-(delta-linked-Orn)]
+#=GS 2li9_A/2-17    DE [subseq from] mol:protein length:18  Amyloid beta A4 protein
+#=GS 2li9_B/2-17    DE [subseq from] mol:protein length:18  Amyloid beta A4 protein
+#=GS 5w4h_A/2-16    DE [subseq from] mol:protein length:16  A-beta 17_36 peptide: ORN-LYS-LEU-VAL-MEA-PHE-ALA-GLU-ORN-ALA-ILE-ILE-GLY-LEU-MET-VAL
+#=GS 5w4h_B/2-16    DE [subseq from] mol:protein length:16  A-beta 17_36 peptide: ORN-LYS-LEU-VAL-MEA-PHE-ALA-GLU-ORN-ALA-ILE-ILE-GLY-LEU-MET-VAL
+#=GS 5w4h_C/2-16    DE [subseq from] mol:protein length:16  A-beta 17_36 peptide: ORN-LYS-LEU-VAL-MEA-PHE-ALA-GLU-ORN-ALA-ILE-ILE-GLY-LEU-MET-VAL
+#=GS 5w4i_A/2-16    DE [subseq from] mol:protein length:16  A-beta 17_36: ORN-LYS-LEU-VAL-MEA-PHE-ALA-GLU-ORN-ALA-ILE-ILE-GLY-LEU-MET-VAL
+#=GS 5w4i_B/2-16    DE [subseq from] mol:protein length:16  A-beta 17_36: ORN-LYS-LEU-VAL-MEA-PHE-ALA-GLU-ORN-ALA-ILE-ILE-GLY-LEU-MET-VAL
+#=GS 5w4i_C/2-16    DE [subseq from] mol:protein length:16  A-beta 17_36: ORN-LYS-LEU-VAL-MEA-PHE-ALA-GLU-ORN-ALA-ILE-ILE-GLY-LEU-MET-VAL
+#=GS 5v63_A/2-16    DE [subseq from] mol:protein length:17  ORN-LYS-LEU-VAL-PHI-PHE-ALA-GLU-ORN-ALA-ILE-ILE-SAR-LEU-MET-VAL
+#=GS 3jti_B/1-8     DE [subseq from] mol:protein length:8  octapeptide from Amyloid beta A4 protein
+#=GS 5v64_A/2-16    DE [subseq from] mol:protein length:16  ORN-GLN-LYS-LEU-VAL-PHI-PHE-ALA-ORN-ALA-ILE-ILE-SAR-LEU-MET-VAL
+#=GS 4q8d_A/2-11    DE [subseq from] mol:protein length:18  macrocyclic beta-sheet peptide incorporating residues amyloid beta 15-23
+#=GS 4q8d_B/2-11    DE [subseq from] mol:protein length:18  macrocyclic beta-sheet peptide incorporating residues amyloid beta 15-23
+#=GS 4ntp_A/2-16    DE [subseq from] mol:protein length:16  Cyclic hexadecapeptide (ORN)LV(PHI)FAED(ORN)AII(SAR)L(ORN)V
+#=GS 4ntp_B/2-16    DE [subseq from] mol:protein length:16  Cyclic hexadecapeptide (ORN)LV(PHI)FAED(ORN)AII(SAR)L(ORN)V
+#=GS 4ntp_C/2-16    DE [subseq from] mol:protein length:16  Cyclic hexadecapeptide (ORN)LV(PHI)FAED(ORN)AII(SAR)L(ORN)V
+#=GS 4ntp_D/2-16    DE [subseq from] mol:protein length:16  Cyclic hexadecapeptide (ORN)LV(PHI)FAED(ORN)AII(SAR)L(ORN)V
+#=GS 4ntp_E/2-16    DE [subseq from] mol:protein length:16  Cyclic hexadecapeptide (ORN)LV(PHI)FAED(ORN)AII(SAR)L(ORN)V
+#=GS 4ntp_F/2-16    DE [subseq from] mol:protein length:16  Cyclic hexadecapeptide (ORN)LV(PHI)FAED(ORN)AII(SAR)L(ORN)V
+#=GS 4ntp_G/2-16    DE [subseq from] mol:protein length:16  Cyclic hexadecapeptide (ORN)LV(PHI)FAED(ORN)AII(SAR)L(ORN)V
+#=GS 4ntp_H/2-16    DE [subseq from] mol:protein length:16  Cyclic hexadecapeptide (ORN)LV(PHI)FAED(ORN)AII(SAR)L(ORN)V
+#=GS 4ntp_I/2-16    DE [subseq from] mol:protein length:16  Cyclic hexadecapeptide (ORN)LV(PHI)FAED(ORN)AII(SAR)L(ORN)V
+#=GS 4ntp_J/2-16    DE [subseq from] mol:protein length:16  Cyclic hexadecapeptide (ORN)LV(PHI)FAED(ORN)AII(SAR)L(ORN)V
+#=GS 4ntp_K/2-16    DE [subseq from] mol:protein length:16  Cyclic hexadecapeptide (ORN)LV(PHI)FAED(ORN)AII(SAR)L(ORN)V
+#=GS 4ntp_L/2-16    DE [subseq from] mol:protein length:16  Cyclic hexadecapeptide (ORN)LV(PHI)FAED(ORN)AII(SAR)L(ORN)V
+#=GS 4ntp_M/2-16    DE [subseq from] mol:protein length:16  Cyclic hexadecapeptide (ORN)LV(PHI)FAED(ORN)AII(SAR)L(ORN)V
+#=GS 4ntp_N/2-16    DE [subseq from] mol:protein length:16  Cyclic hexadecapeptide (ORN)LV(PHI)FAED(ORN)AII(SAR)L(ORN)V
+#=GS 4ntp_O/2-16    DE [subseq from] mol:protein length:16  Cyclic hexadecapeptide (ORN)LV(PHI)FAED(ORN)AII(SAR)L(ORN)V
+#=GS 4ntp_P/2-16    DE [subseq from] mol:protein length:16  Cyclic hexadecapeptide (ORN)LV(PHI)FAED(ORN)AII(SAR)L(ORN)V
+#=GS 4ntr_A/2-16    DE [subseq from] mol:protein length:16  Cyclic hexadecapeptide (ORN)LVFFAED(ORN)AII(SAR)L(ORN)V
+#=GS 4ntr_B/2-16    DE [subseq from] mol:protein length:16  Cyclic hexadecapeptide (ORN)LVFFAED(ORN)AII(SAR)L(ORN)V
+#=GS 4ntr_C/2-16    DE [subseq from] mol:protein length:16  Cyclic hexadecapeptide (ORN)LVFFAED(ORN)AII(SAR)L(ORN)V
+#=GS 4ntr_D/2-16    DE [subseq from] mol:protein length:16  Cyclic hexadecapeptide (ORN)LVFFAED(ORN)AII(SAR)L(ORN)V
+#=GS 4ntr_E/2-16    DE [subseq from] mol:protein length:16  Cyclic hexadecapeptide (ORN)LVFFAED(ORN)AII(SAR)L(ORN)V
+#=GS 4ntr_F/2-16    DE [subseq from] mol:protein length:16  Cyclic hexadecapeptide (ORN)LVFFAED(ORN)AII(SAR)L(ORN)V
+#=GS 4ntr_G/2-16    DE [subseq from] mol:protein length:16  Cyclic hexadecapeptide (ORN)LVFFAED(ORN)AII(SAR)L(ORN)V
+#=GS 4ntr_H/2-16    DE [subseq from] mol:protein length:16  Cyclic hexadecapeptide (ORN)LVFFAED(ORN)AII(SAR)L(ORN)V
+#=GS 4ntr_I/2-16    DE [subseq from] mol:protein length:16  Cyclic hexadecapeptide (ORN)LVFFAED(ORN)AII(SAR)L(ORN)V
+#=GS 4ntr_J/2-16    DE [subseq from] mol:protein length:16  Cyclic hexadecapeptide (ORN)LVFFAED(ORN)AII(SAR)L(ORN)V
+#=GS 4ntr_K/2-16    DE [subseq from] mol:protein length:16  Cyclic hexadecapeptide (ORN)LVFFAED(ORN)AII(SAR)L(ORN)V
+#=GS 4ntr_L/2-16    DE [subseq from] mol:protein length:16  Cyclic hexadecapeptide (ORN)LVFFAED(ORN)AII(SAR)L(ORN)V
+#=GS 4ntr_M/2-16    DE [subseq from] mol:protein length:16  Cyclic hexadecapeptide (ORN)LVFFAED(ORN)AII(SAR)L(ORN)V
+#=GS 4ntr_N/2-16    DE [subseq from] mol:protein length:16  Cyclic hexadecapeptide (ORN)LVFFAED(ORN)AII(SAR)L(ORN)V
+#=GS 4ntr_O/2-16    DE [subseq from] mol:protein length:16  Cyclic hexadecapeptide (ORN)LVFFAED(ORN)AII(SAR)L(ORN)V
+#=GS 4ntr_P/2-16    DE [subseq from] mol:protein length:16  Cyclic hexadecapeptide (ORN)LVFFAED(ORN)AII(SAR)L(ORN)V
+#=GS 4nw8_A/2-16    DE [subseq from] mol:protein length:16  Cyclic hexadecapeptide (ORN)LV(PHI)(MEA)AED(ORN)AIIGL(ORN)V
+#=GS 4nw8_B/2-16    DE [subseq from] mol:protein length:16  Cyclic hexadecapeptide (ORN)LV(PHI)(MEA)AED(ORN)AIIGL(ORN)V
+#=GS 4nw8_C/2-16    DE [subseq from] mol:protein length:16  Cyclic hexadecapeptide (ORN)LV(PHI)(MEA)AED(ORN)AIIGL(ORN)V
+#=GS 4nw8_D/2-16    DE [subseq from] mol:protein length:16  Cyclic hexadecapeptide (ORN)LV(PHI)(MEA)AED(ORN)AIIGL(ORN)V
+#=GS 4nw8_E/2-16    DE [subseq from] mol:protein length:16  Cyclic hexadecapeptide (ORN)LV(PHI)(MEA)AED(ORN)AIIGL(ORN)V
+#=GS 4nw8_F/2-16    DE [subseq from] mol:protein length:16  Cyclic hexadecapeptide (ORN)LV(PHI)(MEA)AED(ORN)AIIGL(ORN)V
+#=GS 4nw8_G/2-16    DE [subseq from] mol:protein length:16  Cyclic hexadecapeptide (ORN)LV(PHI)(MEA)AED(ORN)AIIGL(ORN)V
+#=GS 4nw8_H/2-16    DE [subseq from] mol:protein length:16  Cyclic hexadecapeptide (ORN)LV(PHI)(MEA)AED(ORN)AIIGL(ORN)V
+#=GS 4nw8_I/2-16    DE [subseq from] mol:protein length:16  Cyclic hexadecapeptide (ORN)LV(PHI)(MEA)AED(ORN)AIIGL(ORN)V
+#=GS 4nw8_J/2-16    DE [subseq from] mol:protein length:16  Cyclic hexadecapeptide (ORN)LV(PHI)(MEA)AED(ORN)AIIGL(ORN)V
+#=GS 4nw8_K/2-16    DE [subseq from] mol:protein length:16  Cyclic hexadecapeptide (ORN)LV(PHI)(MEA)AED(ORN)AIIGL(ORN)V
+#=GS 4nw8_L/2-16    DE [subseq from] mol:protein length:16  Cyclic hexadecapeptide (ORN)LV(PHI)(MEA)AED(ORN)AIIGL(ORN)V
+#=GS 4nw9_A/2-16    DE [subseq from] mol:protein length:16  Cyclic hexadecapeptide (ORN)LVF(MEA)AED(ORN)AIIGL(ORN)V
+#=GS 4nw9_B/2-16    DE [subseq from] mol:protein length:16  Cyclic hexadecapeptide (ORN)LVF(MEA)AED(ORN)AIIGL(ORN)V
+#=GS 4nw9_C/2-16    DE [subseq from] mol:protein length:16  Cyclic hexadecapeptide (ORN)LVF(MEA)AED(ORN)AIIGL(ORN)V
+#=GS 4nw9_D/2-16    DE [subseq from] mol:protein length:16  Cyclic hexadecapeptide (ORN)LVF(MEA)AED(ORN)AIIGL(ORN)V
+#=GS 4nw9_E/2-16    DE [subseq from] mol:protein length:16  Cyclic hexadecapeptide (ORN)LVF(MEA)AED(ORN)AIIGL(ORN)V
+#=GS 4nw9_F/2-16    DE [subseq from] mol:protein length:16  Cyclic hexadecapeptide (ORN)LVF(MEA)AED(ORN)AIIGL(ORN)V
+#=GS 4nw9_G/2-16    DE [subseq from] mol:protein length:16  Cyclic hexadecapeptide (ORN)LVF(MEA)AED(ORN)AIIGL(ORN)V
+#=GS 4nw9_H/2-16    DE [subseq from] mol:protein length:16  Cyclic hexadecapeptide (ORN)LVF(MEA)AED(ORN)AIIGL(ORN)V
+#=GS 4nw9_I/2-16    DE [subseq from] mol:protein length:16  Cyclic hexadecapeptide (ORN)LVF(MEA)AED(ORN)AIIGL(ORN)V
+#=GS 4nw9_J/2-16    DE [subseq from] mol:protein length:16  Cyclic hexadecapeptide (ORN)LVF(MEA)AED(ORN)AIIGL(ORN)V
+#=GS 4nw9_K/2-16    DE [subseq from] mol:protein length:16  Cyclic hexadecapeptide (ORN)LVF(MEA)AED(ORN)AIIGL(ORN)V
+#=GS 4nw9_L/2-16    DE [subseq from] mol:protein length:16  Cyclic hexadecapeptide (ORN)LVF(MEA)AED(ORN)AIIGL(ORN)V
+#=GS 1x1p_A/11-19   DE [subseq from] mol:protein length:212  Ribonuclease HII
+#=GS 1x1p_A/199-210 DE [subseq from] mol:protein length:212  Ribonuclease HII
+#=GS 7jqt_A/3-16    DE [subseq from] mol:protein length:16  Abeta 16-36 beta-hairpin mimic VAL-ORT-LYS-LEU-VAL-MEA-PHE-ALA-LYS-ORT-ALA-ILE-ILE-GLY-LEU-MET
+#=GS 7jqs_A/2-16    DE [subseq from] mol:protein length:16  Abeta 16-36 beta-hairpin mimic VAL-ORN-LYS-LEU-VAL-MEA-PHE-ALA-ASP-ORN-ALA-ILE-ILE-GLY-LEU-MET
+#=GS 5w4j_A/3-16    DE [subseq from] mol:protein length:16  A-beta 17_36 peptide: ORN-LYS-VAL-PHE-MEA-ALA-ALA-ASP-ORN-ALA-ILE-ILE-GLY-LEU-MET-VAL
+#=GS 5w4j_B/3-16    DE [subseq from] mol:protein length:16  A-beta 17_36 peptide: ORN-LYS-VAL-PHE-MEA-ALA-ALA-ASP-ORN-ALA-ILE-ILE-GLY-LEU-MET-VAL
+#=GS 5w4j_C/3-16    DE [subseq from] mol:protein length:16  A-beta 17_36 peptide: ORN-LYS-VAL-PHE-MEA-ALA-ALA-ASP-ORN-ALA-ILE-ILE-GLY-LEU-MET-VAL
+#=GS 5w4j_D/3-16    DE [subseq from] mol:protein length:16  A-beta 17_36 peptide: ORN-LYS-VAL-PHE-MEA-ALA-ALA-ASP-ORN-ALA-ILE-ILE-GLY-LEU-MET-VAL
+#=GS 5w4j_E/3-16    DE [subseq from] mol:protein length:16  A-beta 17_36 peptide: ORN-LYS-VAL-PHE-MEA-ALA-ALA-ASP-ORN-ALA-ILE-ILE-GLY-LEU-MET-VAL
+#=GS 5w4j_F/3-16    DE [subseq from] mol:protein length:16  A-beta 17_36 peptide: ORN-LYS-VAL-PHE-MEA-ALA-ALA-ASP-ORN-ALA-ILE-ILE-GLY-LEU-MET-VAL
+#=GS 7jqu_A/2-16    DE [subseq from] mol:protein length:16  Abeta 16-36 beta-hairpin mimic VAL-ORN-LYS-LEU-VAL-MEA-PHE-ALA-GLN-ORN-ALA-ILE-ILE-GLY-LEU-MET
+#=GS 7jqu_B/2-16    DE [subseq from] mol:protein length:16  Abeta 16-36 beta-hairpin mimic VAL-ORN-LYS-LEU-VAL-MEA-PHE-ALA-GLN-ORN-ALA-ILE-ILE-GLY-LEU-MET
+#=GS 7jqu_C/2-16    DE [subseq from] mol:protein length:16  Abeta 16-36 beta-hairpin mimic VAL-ORN-LYS-LEU-VAL-MEA-PHE-ALA-GLN-ORN-ALA-ILE-ILE-GLY-LEU-MET
+#=GS 3t4g_A/2-8     DE [subseq from] mol:protein length:14  Cyclic pseudo-peptide (ORN)AIIGLMV(ORN)KF(HAO)(4BF)K
+#=GS 3t4g_B/2-8     DE [subseq from] mol:protein length:14  Cyclic pseudo-peptide (ORN)AIIGLMV(ORN)KF(HAO)(4BF)K
+#=GS 5csz_D/1-11    DE [subseq from] mol:protein length:11  Amyloid beta A4 protein
+#=GS 5csz_E/1-11    DE [subseq from] mol:protein length:11  Amyloid beta A4 protein
+#=GS 6co3_Q/1-11    DE [subseq from] mol:protein length:11  ALA-GLU-PHE-ARG-HIS-ASP
+#=GS 1usq_A/108-128 DE [subseq from] mol:protein length:149  DR HEMAGGLUTININ STRUCTURAL SUBUNIT
+#=GS 1usq_B/108-128 DE [subseq from] mol:protein length:149  DR HEMAGGLUTININ STRUCTURAL SUBUNIT
+#=GS 1usq_C/108-128 DE [subseq from] mol:protein length:149  DR HEMAGGLUTININ STRUCTURAL SUBUNIT
+#=GS 1usq_D/108-128 DE [subseq from] mol:protein length:149  DR HEMAGGLUTININ STRUCTURAL SUBUNIT
+#=GS 1usq_E/108-128 DE [subseq from] mol:protein length:149  DR HEMAGGLUTININ STRUCTURAL SUBUNIT
+#=GS 1usq_F/108-128 DE [subseq from] mol:protein length:149  DR HEMAGGLUTININ STRUCTURAL SUBUNIT
+#=GS 2jkj_A/108-128 DE [subseq from] mol:protein length:149  DR HEMAGGLUTININ STRUCTURAL SUBUNIT
+#=GS 2jkj_B/108-128 DE [subseq from] mol:protein length:149  DR HEMAGGLUTININ STRUCTURAL SUBUNIT
+#=GS 2jkj_C/108-128 DE [subseq from] mol:protein length:149  DR HEMAGGLUTININ STRUCTURAL SUBUNIT
+#=GS 2jkj_D/108-128 DE [subseq from] mol:protein length:149  DR HEMAGGLUTININ STRUCTURAL SUBUNIT
+#=GS 2jkj_E/108-128 DE [subseq from] mol:protein length:149  DR HEMAGGLUTININ STRUCTURAL SUBUNIT
+#=GS 2jkj_F/108-128 DE [subseq from] mol:protein length:149  DR HEMAGGLUTININ STRUCTURAL SUBUNIT
+#=GS 2jkl_A/108-128 DE [subseq from] mol:protein length:149  DR HEMAGGLUTININ STRUCTURAL SUBUNIT
+#=GS 2jkl_B/108-128 DE [subseq from] mol:protein length:149  DR HEMAGGLUTININ STRUCTURAL SUBUNIT
+#=GS 2jkl_C/108-128 DE [subseq from] mol:protein length:149  DR HEMAGGLUTININ STRUCTURAL SUBUNIT
+#=GS 2jkl_D/108-128 DE [subseq from] mol:protein length:149  DR HEMAGGLUTININ STRUCTURAL SUBUNIT
+#=GS 2jkl_E/108-128 DE [subseq from] mol:protein length:149  DR HEMAGGLUTININ STRUCTURAL SUBUNIT
+#=GS 2jkl_F/108-128 DE [subseq from] mol:protein length:149  DR HEMAGGLUTININ STRUCTURAL SUBUNIT
+#=GS 2jkn_A/108-128 DE [subseq from] mol:protein length:149  DR HEMAGGLUTININ STRUCTURAL SUBUNIT
+#=GS 2jkn_B/108-128 DE [subseq from] mol:protein length:149  DR HEMAGGLUTININ STRUCTURAL SUBUNIT
+#=GS 2jkn_C/108-128 DE [subseq from] mol:protein length:149  DR HEMAGGLUTININ STRUCTURAL SUBUNIT
+#=GS 2jkn_D/108-128 DE [subseq from] mol:protein length:149  DR HEMAGGLUTININ STRUCTURAL SUBUNIT
+#=GS 2jkn_E/108-128 DE [subseq from] mol:protein length:149  DR HEMAGGLUTININ STRUCTURAL SUBUNIT
+#=GS 2jkn_F/108-128 DE [subseq from] mol:protein length:149  DR HEMAGGLUTININ STRUCTURAL SUBUNIT
+#=GS 2w5p_A/108-128 DE [subseq from] mol:protein length:149  DR HEMAGGLUTININ STRUCTURAL SUBUNIT
+#=GS 2w5p_B/108-128 DE [subseq from] mol:protein length:149  DR HEMAGGLUTININ STRUCTURAL SUBUNIT
+#=GS 2w5p_C/108-128 DE [subseq from] mol:protein length:149  DR HEMAGGLUTININ STRUCTURAL SUBUNIT
+#=GS 1ut1_A/107-127 DE [subseq from] mol:protein length:148  DR HEMAGGLUTININ STRUCTURAL SUBUNIT
+#=GS 1ut1_B/107-127 DE [subseq from] mol:protein length:148  DR HEMAGGLUTININ STRUCTURAL SUBUNIT
+#=GS 1ut1_C/107-127 DE [subseq from] mol:protein length:148  DR HEMAGGLUTININ STRUCTURAL SUBUNIT
+#=GS 1ut1_D/107-127 DE [subseq from] mol:protein length:148  DR HEMAGGLUTININ STRUCTURAL SUBUNIT
+#=GS 1ut1_E/107-127 DE [subseq from] mol:protein length:148  DR HEMAGGLUTININ STRUCTURAL SUBUNIT
+#=GS 1ut1_F/107-127 DE [subseq from] mol:protein length:148  DR HEMAGGLUTININ STRUCTURAL SUBUNIT
+#=GS 7jqr_A/3-16    DE [subseq from] mol:protein length:16  Abeta 16-36 beta-hairpin mimic VAL-ORN-LYS-LEU-VAL-MEA-PHE-ALA-GLY-ORN-ALA-ILE-ILE-GLY-LEU-MET
+#=GS 4mvk_B/2-7     DE [subseq from] mol:protein length:8  Amyloid peptide fragment VFFAED
+#=GS 6cg3_A/2-9     DE [subseq from] mol:protein length:16  ORN-LEU-VAL-PHI-PHE-ALA-GLU-ASP-ORN-ALA-ILE-ILE-EZY-LEU-ORN-VAL
+#=GS 5sur_A/2-16    DE [subseq from] mol:protein length:16  16mer A-beta peptide: ORN-CYS-VAL-PHE-MEA-CYS-GLU-ASP-ORN-ALA-ILE-ILE-GLY-LEU-ORN-VAL
+#=GS 5sur_B/2-16    DE [subseq from] mol:protein length:16  16mer A-beta peptide: ORN-CYS-VAL-PHE-MEA-CYS-GLU-ASP-ORN-ALA-ILE-ILE-GLY-LEU-ORN-VAL
+#=GS 5sur_C/2-16    DE [subseq from] mol:protein length:16  16mer A-beta peptide: ORN-CYS-VAL-PHE-MEA-CYS-GLU-ASP-ORN-ALA-ILE-ILE-GLY-LEU-ORN-VAL
+#=GS 5sur_D/2-16    DE [subseq from] mol:protein length:16  16mer A-beta peptide: ORN-CYS-VAL-PHE-MEA-CYS-GLU-ASP-ORN-ALA-ILE-ILE-GLY-LEU-ORN-VAL
+#=GS 5sus_A/2-16    DE [subseq from] mol:protein length:16  16mer A-beta peptide: ORN-CYS-VAL-PHE-MEA-CYS-GLU-ASP-ORN-ALA-ILE-ILE-GLY-LEU-ORN-VAL
+#=GS 5sus_B/2-16    DE [subseq from] mol:protein length:16  16mer A-beta peptide: ORN-CYS-VAL-PHE-MEA-CYS-GLU-ASP-ORN-ALA-ILE-ILE-GLY-LEU-ORN-VAL
+#=GS 5sus_C/2-16    DE [subseq from] mol:protein length:16  16mer A-beta peptide: ORN-CYS-VAL-PHE-MEA-CYS-GLU-ASP-ORN-ALA-ILE-ILE-GLY-LEU-ORN-VAL
+#=GS 5sus_D/2-16    DE [subseq from] mol:protein length:16  16mer A-beta peptide: ORN-CYS-VAL-PHE-MEA-CYS-GLU-ASP-ORN-ALA-ILE-ILE-GLY-LEU-ORN-VAL
+#=GS 5sut_A/2-16    DE [subseq from] mol:protein length:16  16mer A-beta peptide: ORN-CYS-VAL-PHE-PHE-CYS-GLU-ASP-ORN-ALA-ILE-ILE-SAR-LEU-ORN-VAL
+#=GS 5sut_B/2-16    DE [subseq from] mol:protein length:16  16mer A-beta peptide: ORN-CYS-VAL-PHE-PHE-CYS-GLU-ASP-ORN-ALA-ILE-ILE-SAR-LEU-ORN-VAL
+#=GS 5suu_A/2-16    DE [subseq from] mol:protein length:16  16mer A-beta peptide: ORN-CYS-VAL-PHE-PHE-CYS-GLU-ASP-ORN-ALA-ILE-ILE-SAR-LEU-ORN-VAL
+#=GS 5suu_B/2-16    DE [subseq from] mol:protein length:16  16mer A-beta peptide: ORN-CYS-VAL-PHE-PHE-CYS-GLU-ASP-ORN-ALA-ILE-ILE-SAR-LEU-ORN-VAL
+#=GS 3q2x_A/1-6     DE [subseq from] mol:protein length:6  Amyloid beta A4 protein
+#=GS 2y3j_A/1-6     DE [subseq from] mol:protein length:6  AMYLOID BETA A4 PROTEIN
+#=GS 2y3j_B/1-6     DE [subseq from] mol:protein length:6  AMYLOID BETA A4 PROTEIN
+#=GS 2y3j_C/1-6     DE [subseq from] mol:protein length:6  AMYLOID BETA A4 PROTEIN
+#=GS 2y3j_D/1-6     DE [subseq from] mol:protein length:6  AMYLOID BETA A4 PROTEIN
+#=GS 2y3j_E/1-6     DE [subseq from] mol:protein length:6  AMYLOID BETA A4 PROTEIN
+#=GS 2y3j_F/1-6     DE [subseq from] mol:protein length:6  AMYLOID BETA A4 PROTEIN
+#=GS 2y3j_G/1-6     DE [subseq from] mol:protein length:6  AMYLOID BETA A4 PROTEIN
+#=GS 2y3j_H/1-6     DE [subseq from] mol:protein length:6  AMYLOID BETA A4 PROTEIN
+#=GS 5my4_C/2-10    DE [subseq from] mol:protein length:10  Pyroglutamate-Abeta pE3-12-PEGb
+#=GS 5myo_E/2-10    DE [subseq from] mol:protein length:10  Amyloid beta A4 protein
+#=GS 5vf1_A/2-8     DE [subseq from] mol:protein length:16  ORN-LYS-LEU-VAL-PHI-PHE-ALA-GLU-ORN-GLU-ALA-PHE-MEA-VAL-LEU-LYS
+#=GS 5vf1_B/2-8     DE [subseq from] mol:protein length:16  ORN-LYS-LEU-VAL-PHI-PHE-ALA-GLU-ORN-GLU-ALA-PHE-MEA-VAL-LEU-LYS
+#=GS 5vf1_C/2-8     DE [subseq from] mol:protein length:16  ORN-LYS-LEU-VAL-PHI-PHE-ALA-GLU-ORN-GLU-ALA-PHE-MEA-VAL-LEU-LYS
+#=GS 5vf1_D/2-8     DE [subseq from] mol:protein length:16  ORN-LYS-LEU-VAL-PHI-PHE-ALA-GLU-ORN-GLU-ALA-PHE-MEA-VAL-LEU-LYS
+#=GS 5vf1_E/2-8     DE [subseq from] mol:protein length:16  ORN-LYS-LEU-VAL-PHI-PHE-ALA-GLU-ORN-GLU-ALA-PHE-MEA-VAL-LEU-LYS
+#=GS 5vf1_F/2-8     DE [subseq from] mol:protein length:16  ORN-LYS-LEU-VAL-PHI-PHE-ALA-GLU-ORN-GLU-ALA-PHE-MEA-VAL-LEU-LYS
+#=GS 6dr4_A/2-16    DE [subseq from] mol:protein length:16  ORN-CYS-VAL-PHE-MEA-CYS-GLU-ASP-ORN-ALA-VAL-ILE-GLY-LEU-ORN-VAL
+#=GS 6dr4_B/2-16    DE [subseq from] mol:protein length:16  ORN-CYS-VAL-PHE-MEA-CYS-GLU-ASP-ORN-ALA-VAL-ILE-GLY-LEU-ORN-VAL
+#=GS 6dr4_C/2-16    DE [subseq from] mol:protein length:16  ORN-CYS-VAL-PHE-MEA-CYS-GLU-ASP-ORN-ALA-VAL-ILE-GLY-LEU-ORN-VAL
+#=GS 6dr4_D/2-16    DE [subseq from] mol:protein length:16  ORN-CYS-VAL-PHE-MEA-CYS-GLU-ASP-ORN-ALA-VAL-ILE-GLY-LEU-ORN-VAL
+#=GS 3g4s_F/41-54   DE [subseq from] mol:protein length:119  50S ribosomal protein L7Ae
+#=GS 3g6e_F/41-54   DE [subseq from] mol:protein length:119  50S ribosomal protein L7Ae
+#=GS 3g71_F/41-54   DE [subseq from] mol:protein length:119  50S ribosomal protein L7Ae
+#=GS 1s72_F/42-55   DE [subseq from] mol:protein length:120  50S ribosomal protein L7Ae
+#=GS 1vq4_F/42-55   DE [subseq from] mol:protein length:120  50S ribosomal protein L7AE
+#=GS 1vq5_F/42-55   DE [subseq from] mol:protein length:120  50S ribosomal protein L7AE
+#=GS 1vq6_F/42-55   DE [subseq from] mol:protein length:120  50S ribosomal protein L7AE
+#=GS 1vq7_F/42-55   DE [subseq from] mol:protein length:120  50S ribosomal protein L7AE
+#=GS 1vq8_F/42-55   DE [subseq from] mol:protein length:120  50S ribosomal protein L7AE
+#=GS 1vq9_F/42-55   DE [subseq from] mol:protein length:120  50S ribosomal protein L7AE
+#=GS 1vqk_F/42-55   DE [subseq from] mol:protein length:120  50S ribosomal protein L7AE
+#=GS 1vql_F/42-55   DE [subseq from] mol:protein length:120  50S ribosomal protein L7AE
+#=GS 1vqm_F/42-55   DE [subseq from] mol:protein length:120  50S ribosomal protein L7AE
+#=GS 1vqn_F/42-55   DE [subseq from] mol:protein length:120  50S ribosomal protein L7AE
+#=GS 1vqo_F/42-55   DE [subseq from] mol:protein length:120  50S ribosomal protein L7AE
+#=GS 1vqp_F/42-55   DE [subseq from] mol:protein length:120  50S ribosomal protein L7AE
+#=GS 1yhq_F/42-55   DE [subseq from] mol:protein length:120  50S ribosomal protein L7AE
+#=GS 1yi2_F/42-55   DE [subseq from] mol:protein length:120  50S ribosomal protein L7AE
+#=GS 1yij_F/42-55   DE [subseq from] mol:protein length:120  50S ribosomal protein L7AE
+#=GS 1yit_F/42-55   DE [subseq from] mol:protein length:120  50S RIBOSOMAL PROTEIN L7AE
+#=GS 1yj9_F/42-55   DE [subseq from] mol:protein length:120  50S ribosomal protein L7AE
+#=GS 1yjn_F/42-55   DE [subseq from] mol:protein length:120  50S ribosomal protein L7AE
+#=GS 1yjw_F/42-55   DE [subseq from] mol:protein length:120  50S RIBOSOMAL PROTEIN L7AE
+#=GS 2otj_F/42-55   DE [subseq from] mol:protein length:120  50S ribosomal protein L7Ae
+#=GS 2otl_F/42-55   DE [subseq from] mol:protein length:120  50S ribosomal protein L7Ae
+#=GS 2qa4_F/42-55   DE [subseq from] mol:protein length:120  50S ribosomal protein L7Ae
+#=GS 2qex_F/42-55   DE [subseq from] mol:protein length:120  50S ribosomal protein L7Ae
+#=GS 3cc2_F/42-55   DE [subseq from] mol:protein length:120  50S ribosomal protein L7Ae
+#=GS 3cc4_F/42-55   DE [subseq from] mol:protein length:120  50S ribosomal protein L7Ae
+#=GS 3cc7_F/42-55   DE [subseq from] mol:protein length:120  50S ribosomal protein L7Ae
+#=GS 3cce_F/42-55   DE [subseq from] mol:protein length:120  50S ribosomal protein L7Ae
+#=GS 3ccj_F/42-55   DE [subseq from] mol:protein length:120  50S ribosomal protein L7Ae
+#=GS 3ccl_F/42-55   DE [subseq from] mol:protein length:120  50S ribosomal protein L7Ae
+#=GS 3ccm_F/42-55   DE [subseq from] mol:protein length:120  50S ribosomal protein L7Ae
+#=GS 3ccq_F/42-55   DE [subseq from] mol:protein length:120  50S ribosomal protein L7Ae
+#=GS 3ccr_F/42-55   DE [subseq from] mol:protein length:120  50S ribosomal protein L7Ae
+#=GS 3ccs_F/42-55   DE [subseq from] mol:protein length:120  50S ribosomal protein L7Ae
+#=GS 3ccu_F/42-55   DE [subseq from] mol:protein length:120  50S ribosomal protein L7Ae
+#=GS 3ccv_F/42-55   DE [subseq from] mol:protein length:120  50S ribosomal protein L7Ae
+#=GS 3cd6_F/42-55   DE [subseq from] mol:protein length:120  50S ribosomal protein L7Ae
+#=GS 3cma_F/42-55   DE [subseq from] mol:protein length:120  50S ribosomal protein L7Ae
+#=GS 3cme_F/42-55   DE [subseq from] mol:protein length:120  50S ribosomal protein L7Ae
+#=GS 3cpw_F/42-55   DE [subseq from] mol:protein length:120  50S ribosomal protein L7Ae
+#=GS 3i55_F/42-55   DE [subseq from] mol:protein length:120  50S ribosomal protein L7Ae
+#=GS 3i56_F/42-55   DE [subseq from] mol:protein length:120  50S ribosomal protein L7Ae
+#=GS 4adx_F/42-55   DE [subseq from] mol:protein length:120  RPL7AE
+#=GS 4v9f_F/42-55   DE [subseq from] mol:protein length:120  50S ribosomal protein L7Ae
+#=GS 1ffk_E/41-54   DE [subseq from] mol:protein length:119  RIBOSOMAL PROTEIN L7AE
+#=GS 1jj2_F/41-54   DE [subseq from] mol:protein length:119  RIBOSOMAL PROTEIN L7AE
+#=GS 1k73_H/41-54   DE [subseq from] mol:protein length:119  RIBOSOMAL PROTEIN L7AE
+#=GS 1k8a_H/41-54   DE [subseq from] mol:protein length:119  RIBOSOMAL PROTEIN L7AE
+#=GS 1k9m_H/41-54   DE [subseq from] mol:protein length:119  RIBOSOMAL PROTEIN L7AE
+#=GS 1kc8_H/41-54   DE [subseq from] mol:protein length:119  RIBOSOMAL PROTEIN L7AE
+#=GS 1kd1_H/41-54   DE [subseq from] mol:protein length:119  RIBOSOMAL PROTEIN L7AE
+#=GS 1kqs_F/41-54   DE [subseq from] mol:protein length:119  RIBOSOMAL PROTEIN L7AE
+#=GS 1m1k_H/41-54   DE [subseq from] mol:protein length:119  RIBOSOMAL PROTEIN L7AE
+#=GS 1m90_H/41-54   DE [subseq from] mol:protein length:119  RIBOSOMAL PROTEIN L7AE
+#=GS 1n8r_H/41-54   DE [subseq from] mol:protein length:119  50S ribosomal protein L7Ae
+#=GS 1nji_H/41-54   DE [subseq from] mol:protein length:119  50S ribosomal protein L7Ae
+#=GS 1q7y_H/41-54   DE [subseq from] mol:protein length:119  50S ribosomal protein L7Ae
+#=GS 1q81_H/41-54   DE [subseq from] mol:protein length:119  50S ribosomal protein L7Ae
+#=GS 1q82_H/41-54   DE [subseq from] mol:protein length:119  50S ribosomal protein L7Ae
+#=GS 1q86_H/41-54   DE [subseq from] mol:protein length:119  50S ribosomal protein L7Ae
+#=GS 1qvf_F/41-54   DE [subseq from] mol:protein length:119  50S ribosomal protein L7Ae
+#=GS 1qvg_F/41-54   DE [subseq from] mol:protein length:119  50S ribosomal protein L7Ae
+#=GS 1w2b_F/41-54   DE [subseq from] mol:protein length:119  50S RIBOSOMAL PROTEIN L7AE
+#=GS 3cxc_F/41-54   DE [subseq from] mol:protein length:119  RIBOSOMAL PROTEIN L7AE
+#=GS 3ow2_F/41-54   DE [subseq from] mol:protein length:119  50S ribosomal protein L7Ae
+#=GS 6o3v_A/311-330 DE [subseq from] mol:protein length:835  Protein VP3
+#=GS 6o3v_B/311-330 DE [subseq from] mol:protein length:835  Protein VP3
+#=GS 6o3v_C/311-330 DE [subseq from] mol:protein length:835  Protein VP3
+#=GS 6o6b_A/311-330 DE [subseq from] mol:protein length:835  Protein VP3
+#=GS 6o6b_B/311-330 DE [subseq from] mol:protein length:835  Protein VP3
+#=GS 6o6b_C/311-330 DE [subseq from] mol:protein length:835  Protein VP3
+#=GS 6o6b_D/311-330 DE [subseq from] mol:protein length:835  Protein VP3
+#=GS 2x2z_A/415-431 DE [subseq from] mol:protein length:456  APICAL MEMBRANE ANTIGEN 1, PUTATIVE
+#=GS 2x2z_B/415-431 DE [subseq from] mol:protein length:456  APICAL MEMBRANE ANTIGEN 1, PUTATIVE
+#=GS 2x2z_D/415-431 DE [subseq from] mol:protein length:456  APICAL MEMBRANE ANTIGEN 1, PUTATIVE
+#=GS 2x2z_E/415-431 DE [subseq from] mol:protein length:456  APICAL MEMBRANE ANTIGEN 1, PUTATIVE
+#=GS 4n8n_A/15-27   DE [subseq from] mol:protein length:115  Cell division protein FtsX
+#=GS 4n8n_B/15-27   DE [subseq from] mol:protein length:115  Cell division protein FtsX
+#=GS 4n8n_C/15-27   DE [subseq from] mol:protein length:115  Cell division protein FtsX
+#=GS 4n8n_D/15-27   DE [subseq from] mol:protein length:115  Cell division protein FtsX
+#=GS 4n8o_A/15-27   DE [subseq from] mol:protein length:115  Cell division protein FtsX
+#=GS 4n8o_B/15-27   DE [subseq from] mol:protein length:115  Cell division protein FtsX
+#=GS 6kmm_A/11-28   DE [subseq from] mol:protein length:363  Deferrochelatase/peroxidase EfeB
+#=GS 6kmm_B/11-28   DE [subseq from] mol:protein length:363  Deferrochelatase/peroxidase EfeB
+#=GS 6kmm_C/11-28   DE [subseq from] mol:protein length:363  Deferrochelatase/peroxidase EfeB
+#=GS 6kmm_D/11-28   DE [subseq from] mol:protein length:363  Deferrochelatase/peroxidase EfeB
+#=GS 6kmm_E/11-28   DE [subseq from] mol:protein length:363  Deferrochelatase/peroxidase EfeB
+#=GS 6kmm_F/11-28   DE [subseq from] mol:protein length:363  Deferrochelatase/peroxidase EfeB
+#=GS 6kmn_A/11-28   DE [subseq from] mol:protein length:363  Deferrochelatase/peroxidase EfeB
+#=GS 6kmn_B/11-28   DE [subseq from] mol:protein length:363  Deferrochelatase/peroxidase EfeB
+#=GS 6kmn_C/11-28   DE [subseq from] mol:protein length:363  Deferrochelatase/peroxidase EfeB
+#=GS 6kmn_D/11-28   DE [subseq from] mol:protein length:363  Deferrochelatase/peroxidase EfeB
+#=GS 7dlk_A/11-28   DE [subseq from] mol:protein length:363  Deferrochelatase/peroxidase
+#=GS 7dlk_B/11-28   DE [subseq from] mol:protein length:363  Deferrochelatase/peroxidase
+#=GS 7dlk_C/11-28   DE [subseq from] mol:protein length:363  Deferrochelatase/peroxidase
+#=GS 7dlk_D/11-28   DE [subseq from] mol:protein length:363  Deferrochelatase/peroxidase
+#=GS 7dlk_E/11-28   DE [subseq from] mol:protein length:363  Deferrochelatase/peroxidase
+#=GS 7dlk_F/11-28   DE [subseq from] mol:protein length:363  Deferrochelatase/peroxidase
+#=GS 6dr5_A/2-9     DE [subseq from] mol:protein length:16  ORT-CYS-VAL-PHE-MEA-CYS-GLU-ASP-ORT-ALA-CHG-ILE-GLY-LEU-ORA-VAL
+#=GS 6dr5_B/2-9     DE [subseq from] mol:protein length:16  ORT-CYS-VAL-PHE-MEA-CYS-GLU-ASP-ORT-ALA-CHG-ILE-GLY-LEU-ORA-VAL
+#=GS 6dr5_C/2-9     DE [subseq from] mol:protein length:16  ORT-CYS-VAL-PHE-MEA-CYS-GLU-ASP-ORT-ALA-CHG-ILE-GLY-LEU-ORA-VAL
+#=GS 6dr5_D/2-9     DE [subseq from] mol:protein length:16  ORT-CYS-VAL-PHE-MEA-CYS-GLU-ASP-ORT-ALA-CHG-ILE-GLY-LEU-ORA-VAL
+#=GS 6dr5_E/2-9     DE [subseq from] mol:protein length:16  ORT-CYS-VAL-PHE-MEA-CYS-GLU-ASP-ORT-ALA-CHG-ILE-GLY-LEU-ORA-VAL
+#=GS 6dr5_F/2-9     DE [subseq from] mol:protein length:16  ORT-CYS-VAL-PHE-MEA-CYS-GLU-ASP-ORT-ALA-CHG-ILE-GLY-LEU-ORA-VAL
+#=GS 3pzz_A/1-6     DE [subseq from] mol:protein length:6  Amyloid beta A4 protein
+#=GS 3pzz_B/1-6     DE [subseq from] mol:protein length:6  Amyloid beta A4 protein
+#=GS 7pkx_A/64-81   DE [subseq from] mol:protein length:416  Deferrochelatase/peroxidase
+#=GS 7pkx_B/64-81   DE [subseq from] mol:protein length:416  Deferrochelatase/peroxidase
+#=GS 7pl0_A/64-81   DE [subseq from] mol:protein length:416  Deferrochelatase/peroxidase
+#=GS 7pl0_B/64-81   DE [subseq from] mol:protein length:416  Deferrochelatase/peroxidase
+#=GS 7pl0_C/64-81   DE [subseq from] mol:protein length:416  Deferrochelatase/peroxidase
+#=GS 7pl0_D/64-81   DE [subseq from] mol:protein length:416  Deferrochelatase/peroxidase
+#=GS 1h8m_A/38-53   DE [subseq from] mol:protein length:140  SYNAPTOBREVIN HOMOLOG 1
+#=GS 1iou_A/38-53   DE [subseq from] mol:protein length:140  YKT6P
+#=GS 3bw6_A/42-57   DE [subseq from] mol:protein length:144  Synaptobrevin homolog YKT6
+#=GS 2cu8_A/16-27   DE [subseq from] mol:protein length:76  Cysteine-rich protein 2
+#=GS 4rou_A/188-203 DE [subseq from] mol:protein length:310  Mitochondrial ribonuclease P protein 3
+#=GS 4rou_B/188-203 DE [subseq from] mol:protein length:310  Mitochondrial ribonuclease P protein 3
+#=GS 1mxq_A/4-11    DE [subseq from] mol:protein length:11  Eledoisin
+#=GS 5lfy_A/1-10    DE [subseq from] mol:protein length:11  Amyloid beta A4 protein
+#=GS 5lfy_B/1-10    DE [subseq from] mol:protein length:11  Amyloid beta A4 protein
+
+1aml_A/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 1aml_A/1-40    PP 79*************************************9
+1ba4_A/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 1ba4_A/1-40    PP 79*************************************9
+1ba6_A/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 1ba6_A/1-40    PP 79*************************************9
+2g47_C/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 2g47_C/1-40    PP 79*************************************9
+2g47_D/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 2g47_D/1-40    PP 79*************************************9
+2lfm_A/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 2lfm_A/1-40    PP 79*************************************9
+2lmn_A/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 2lmn_A/1-40    PP 79*************************************9
+2lmn_B/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 2lmn_B/1-40    PP 79*************************************9
+2lmn_C/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 2lmn_C/1-40    PP 79*************************************9
+2lmn_D/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 2lmn_D/1-40    PP 79*************************************9
+2lmn_E/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 2lmn_E/1-40    PP 79*************************************9
+2lmn_F/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 2lmn_F/1-40    PP 79*************************************9
+2lmn_G/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 2lmn_G/1-40    PP 79*************************************9
+2lmn_H/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 2lmn_H/1-40    PP 79*************************************9
+2lmn_I/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 2lmn_I/1-40    PP 79*************************************9
+2lmn_J/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 2lmn_J/1-40    PP 79*************************************9
+2lmn_K/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 2lmn_K/1-40    PP 79*************************************9
+2lmn_L/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 2lmn_L/1-40    PP 79*************************************9
+2lmo_A/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 2lmo_A/1-40    PP 79*************************************9
+2lmo_B/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 2lmo_B/1-40    PP 79*************************************9
+2lmo_C/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 2lmo_C/1-40    PP 79*************************************9
+2lmo_D/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 2lmo_D/1-40    PP 79*************************************9
+2lmo_E/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 2lmo_E/1-40    PP 79*************************************9
+2lmo_F/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 2lmo_F/1-40    PP 79*************************************9
+2lmo_G/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 2lmo_G/1-40    PP 79*************************************9
+2lmo_H/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 2lmo_H/1-40    PP 79*************************************9
+2lmo_I/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 2lmo_I/1-40    PP 79*************************************9
+2lmo_J/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 2lmo_J/1-40    PP 79*************************************9
+2lmo_K/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 2lmo_K/1-40    PP 79*************************************9
+2lmo_L/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 2lmo_L/1-40    PP 79*************************************9
+2lmp_A/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 2lmp_A/1-40    PP 79*************************************9
+2lmp_B/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 2lmp_B/1-40    PP 79*************************************9
+2lmp_C/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 2lmp_C/1-40    PP 79*************************************9
+2lmp_D/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 2lmp_D/1-40    PP 79*************************************9
+2lmp_E/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 2lmp_E/1-40    PP 79*************************************9
+2lmp_F/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 2lmp_F/1-40    PP 79*************************************9
+2lmp_G/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 2lmp_G/1-40    PP 79*************************************9
+2lmp_H/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 2lmp_H/1-40    PP 79*************************************9
+2lmp_I/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 2lmp_I/1-40    PP 79*************************************9
+2lmp_J/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 2lmp_J/1-40    PP 79*************************************9
+2lmp_K/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 2lmp_K/1-40    PP 79*************************************9
+2lmp_L/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 2lmp_L/1-40    PP 79*************************************9
+2lmp_M/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 2lmp_M/1-40    PP 79*************************************9
+2lmp_N/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 2lmp_N/1-40    PP 79*************************************9
+2lmp_O/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 2lmp_O/1-40    PP 79*************************************9
+2lmp_P/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 2lmp_P/1-40    PP 79*************************************9
+2lmp_Q/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 2lmp_Q/1-40    PP 79*************************************9
+2lmp_R/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 2lmp_R/1-40    PP 79*************************************9
+2lmq_A/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 2lmq_A/1-40    PP 79*************************************9
+2lmq_B/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 2lmq_B/1-40    PP 79*************************************9
+2lmq_C/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 2lmq_C/1-40    PP 79*************************************9
+2lmq_D/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 2lmq_D/1-40    PP 79*************************************9
+2lmq_E/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 2lmq_E/1-40    PP 79*************************************9
+2lmq_F/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 2lmq_F/1-40    PP 79*************************************9
+2lmq_G/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 2lmq_G/1-40    PP 79*************************************9
+2lmq_H/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 2lmq_H/1-40    PP 79*************************************9
+2lmq_I/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 2lmq_I/1-40    PP 79*************************************9
+2lmq_J/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 2lmq_J/1-40    PP 79*************************************9
+2lmq_K/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 2lmq_K/1-40    PP 79*************************************9
+2lmq_L/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 2lmq_L/1-40    PP 79*************************************9
+2lmq_M/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 2lmq_M/1-40    PP 79*************************************9
+2lmq_N/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 2lmq_N/1-40    PP 79*************************************9
+2lmq_O/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 2lmq_O/1-40    PP 79*************************************9
+2lmq_P/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 2lmq_P/1-40    PP 79*************************************9
+2lmq_Q/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 2lmq_Q/1-40    PP 79*************************************9
+2lmq_R/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 2lmq_R/1-40    PP 79*************************************9
+2m4j_A/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 2m4j_A/1-40    PP 79*************************************9
+2m4j_B/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 2m4j_B/1-40    PP 79*************************************9
+2m4j_C/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 2m4j_C/1-40    PP 79*************************************9
+2m4j_D/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 2m4j_D/1-40    PP 79*************************************9
+2m4j_E/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 2m4j_E/1-40    PP 79*************************************9
+2m4j_F/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 2m4j_F/1-40    PP 79*************************************9
+2m4j_G/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 2m4j_G/1-40    PP 79*************************************9
+2m4j_H/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 2m4j_H/1-40    PP 79*************************************9
+2m4j_I/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 2m4j_I/1-40    PP 79*************************************9
+2m9r_A/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 2m9r_A/1-40    PP 79*************************************9
+2m9s_A/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 2m9s_A/1-40    PP 79*************************************9
+2otk_C/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 2otk_C/1-40    PP 79*************************************9
+3ifn_P/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 3ifn_P/1-40    PP 79*************************************9
+4m1c_G/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 4m1c_G/1-40    PP 79*************************************9
+4m1c_H/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 4m1c_H/1-40    PP 79*************************************9
+4mvi_B/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 4mvi_B/1-40    PP 79*************************************9
+4mvl_E/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 4mvl_E/1-40    PP 79*************************************9
+4mvl_F/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 4mvl_F/1-40    PP 79*************************************9
+4mvl_G/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 4mvl_G/1-40    PP 79*************************************9
+4mvl_H/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 4mvl_H/1-40    PP 79*************************************9
+4nge_B/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 4nge_B/1-40    PP 79*************************************9
+4nge_E/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 4nge_E/1-40    PP 79*************************************9
+4ong_P/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 4ong_P/1-40    PP 79*************************************9
+6oc9_A/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 6oc9_A/1-40    PP 79*************************************9
+6oc9_B/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 6oc9_B/1-40    PP 79*************************************9
+6oc9_C/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 6oc9_C/1-40    PP 79*************************************9
+6oc9_D/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 6oc9_D/1-40    PP 79*************************************9
+6oc9_E/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 6oc9_E/1-40    PP 79*************************************9
+6oc9_F/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 6oc9_F/1-40    PP 79*************************************9
+6oc9_G/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 6oc9_G/1-40    PP 79*************************************9
+6oc9_H/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 6oc9_H/1-40    PP 79*************************************9
+6oc9_I/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 6oc9_I/1-40    PP 79*************************************9
+6oc9_J/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 6oc9_J/1-40    PP 79*************************************9
+6shs_A/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 6shs_A/1-40    PP 79*************************************9
+6shs_B/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 6shs_B/1-40    PP 79*************************************9
+6shs_C/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 6shs_C/1-40    PP 79*************************************9
+6shs_D/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 6shs_D/1-40    PP 79*************************************9
+6shs_E/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 6shs_E/1-40    PP 79*************************************9
+6shs_F/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 6shs_F/1-40    PP 79*************************************9
+6shs_G/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 6shs_G/1-40    PP 79*************************************9
+6shs_H/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 6shs_H/1-40    PP 79*************************************9
+6shs_I/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 6shs_I/1-40    PP 79*************************************9
+6shs_J/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 6shs_J/1-40    PP 79*************************************9
+6shs_K/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 6shs_K/1-40    PP 79*************************************9
+6shs_L/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 6shs_L/1-40    PP 79*************************************9
+6ti5_A/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 6ti5_A/1-40    PP 79*************************************9
+6ti5_B/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 6ti5_B/1-40    PP 79*************************************9
+6ti5_C/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 6ti5_C/1-40    PP 79*************************************9
+6ti5_D/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 6ti5_D/1-40    PP 79*************************************9
+6ti5_E/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 6ti5_E/1-40    PP 79*************************************9
+6ti5_F/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 6ti5_F/1-40    PP 79*************************************9
+6ti5_G/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 6ti5_G/1-40    PP 79*************************************9
+6ti5_H/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 6ti5_H/1-40    PP 79*************************************9
+6ti5_I/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 6ti5_I/1-40    PP 79*************************************9
+6ti5_J/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 6ti5_J/1-40    PP 79*************************************9
+6ti5_K/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 6ti5_K/1-40    PP 79*************************************9
+6ti5_L/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 6ti5_L/1-40    PP 79*************************************9
+6ti5_M/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 6ti5_M/1-40    PP 79*************************************9
+6ti5_N/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 6ti5_N/1-40    PP 79*************************************9
+6ti5_O/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 6ti5_O/1-40    PP 79*************************************9
+6ti5_P/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 6ti5_P/1-40    PP 79*************************************9
+6ti6_A/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 6ti6_A/1-40    PP 79*************************************9
+6ti6_C/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 6ti6_C/1-40    PP 79*************************************9
+6ti6_E/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 6ti6_E/1-40    PP 79*************************************9
+6ti6_G/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 6ti6_G/1-40    PP 79*************************************9
+6ti6_I/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 6ti6_I/1-40    PP 79*************************************9
+6ti6_K/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 6ti6_K/1-40    PP 79*************************************9
+6ti6_M/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 6ti6_M/1-40    PP 79*************************************9
+6ti6_O/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 6ti6_O/1-40    PP 79*************************************9
+6ti7_A/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 6ti7_A/1-40    PP 79*************************************9
+6ti7_C/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 6ti7_C/1-40    PP 79*************************************9
+6ti7_E/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 6ti7_E/1-40    PP 79*************************************9
+6ti7_G/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 6ti7_G/1-40    PP 79*************************************9
+6ti7_J/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 6ti7_J/1-40    PP 79*************************************9
+6ti7_L/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 6ti7_L/1-40    PP 79*************************************9
+6ti7_N/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 6ti7_N/1-40    PP 79*************************************9
+6ti7_P/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 6ti7_P/1-40    PP 79*************************************9
+6w0o_1/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 6w0o_1/1-40    PP 79*************************************9
+6w0o_2/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 6w0o_2/1-40    PP 79*************************************9
+6w0o_3/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 6w0o_3/1-40    PP 79*************************************9
+6w0o_4/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 6w0o_4/1-40    PP 79*************************************9
+6w0o_5/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 6w0o_5/1-40    PP 79*************************************9
+6w0o_6/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 6w0o_6/1-40    PP 79*************************************9
+6xov_B/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 6xov_B/1-40    PP 79*************************************9
+1iyt_A/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 1iyt_A/1-40    PP 79*************************************9
+1z0q_A/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 1z0q_A/1-40    PP 79*************************************9
+2beg_A/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 2beg_A/1-40    PP 79*************************************9
+2beg_B/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 2beg_B/1-40    PP 79*************************************9
+2beg_C/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 2beg_C/1-40    PP 79*************************************9
+2beg_D/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 2beg_D/1-40    PP 79*************************************9
+2beg_E/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 2beg_E/1-40    PP 79*************************************9
+2mxu_A/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 2mxu_A/1-40    PP 79*************************************9
+2mxu_B/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 2mxu_B/1-40    PP 79*************************************9
+2mxu_C/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 2mxu_C/1-40    PP 79*************************************9
+2mxu_D/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 2mxu_D/1-40    PP 79*************************************9
+2mxu_E/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 2mxu_E/1-40    PP 79*************************************9
+2mxu_F/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 2mxu_F/1-40    PP 79*************************************9
+2mxu_G/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 2mxu_G/1-40    PP 79*************************************9
+2mxu_H/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 2mxu_H/1-40    PP 79*************************************9
+2mxu_I/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 2mxu_I/1-40    PP 79*************************************9
+2mxu_J/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 2mxu_J/1-40    PP 79*************************************9
+2mxu_K/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 2mxu_K/1-40    PP 79*************************************9
+2mxu_L/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 2mxu_L/1-40    PP 79*************************************9
+2nao_A/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 2nao_A/1-40    PP 79*************************************9
+2nao_B/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 2nao_B/1-40    PP 79*************************************9
+2nao_C/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 2nao_C/1-40    PP 79*************************************9
+2nao_D/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 2nao_D/1-40    PP 79*************************************9
+2nao_E/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 2nao_E/1-40    PP 79*************************************9
+2nao_F/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 2nao_F/1-40    PP 79*************************************9
+2wk3_C/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 2wk3_C/1-40    PP 79*************************************9
+2wk3_D/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 2wk3_D/1-40    PP 79*************************************9
+5kk3_A/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 5kk3_A/1-40    PP 79*************************************9
+5kk3_B/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 5kk3_B/1-40    PP 79*************************************9
+5kk3_C/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 5kk3_C/1-40    PP 79*************************************9
+5kk3_D/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 5kk3_D/1-40    PP 79*************************************9
+5kk3_E/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 5kk3_E/1-40    PP 79*************************************9
+5kk3_F/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 5kk3_F/1-40    PP 79*************************************9
+5kk3_G/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 5kk3_G/1-40    PP 79*************************************9
+5kk3_H/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 5kk3_H/1-40    PP 79*************************************9
+5kk3_I/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 5kk3_I/1-40    PP 79*************************************9
+5kk3_J/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 5kk3_J/1-40    PP 79*************************************9
+5kk3_K/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 5kk3_K/1-40    PP 79*************************************9
+5kk3_L/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 5kk3_L/1-40    PP 79*************************************9
+5kk3_M/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 5kk3_M/1-40    PP 79*************************************9
+5kk3_N/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 5kk3_N/1-40    PP 79*************************************9
+5kk3_O/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 5kk3_O/1-40    PP 79*************************************9
+5kk3_P/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 5kk3_P/1-40    PP 79*************************************9
+5kk3_Q/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 5kk3_Q/1-40    PP 79*************************************9
+5kk3_R/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 5kk3_R/1-40    PP 79*************************************9
+5oqv_A/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 5oqv_A/1-40    PP 79*************************************9
+5oqv_B/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 5oqv_B/1-40    PP 79*************************************9
+5oqv_C/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 5oqv_C/1-40    PP 79*************************************9
+5oqv_D/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 5oqv_D/1-40    PP 79*************************************9
+5oqv_E/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 5oqv_E/1-40    PP 79*************************************9
+5oqv_F/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 5oqv_F/1-40    PP 79*************************************9
+5oqv_G/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 5oqv_G/1-40    PP 79*************************************9
+5oqv_H/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 5oqv_H/1-40    PP 79*************************************9
+5oqv_I/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 5oqv_I/1-40    PP 79*************************************9
+6rhy_A/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 6rhy_A/1-40    PP 79*************************************9
+6rhy_B/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 6rhy_B/1-40    PP 79*************************************9
+6rhy_C/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 6rhy_C/1-40    PP 79*************************************9
+6rhy_D/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 6rhy_D/1-40    PP 79*************************************9
+6szf_A/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 6szf_A/1-40    PP 79*************************************9
+6ti6_B/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 6ti6_B/1-40    PP 79*************************************9
+6ti6_D/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 6ti6_D/1-40    PP 79*************************************9
+6ti6_F/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 6ti6_F/1-40    PP 79*************************************9
+6ti6_H/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 6ti6_H/1-40    PP 79*************************************9
+6ti6_J/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 6ti6_J/1-40    PP 79*************************************9
+6ti6_L/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 6ti6_L/1-40    PP 79*************************************9
+6ti6_N/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 6ti6_N/1-40    PP 79*************************************9
+6ti6_P/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 6ti6_P/1-40    PP 79*************************************9
+6ti7_B/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 6ti7_B/1-40    PP 79*************************************9
+6ti7_D/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 6ti7_D/1-40    PP 79*************************************9
+6ti7_F/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 6ti7_F/1-40    PP 79*************************************9
+6ti7_H/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 6ti7_H/1-40    PP 79*************************************9
+6ti7_I/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 6ti7_I/1-40    PP 79*************************************9
+6ti7_K/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 6ti7_K/1-40    PP 79*************************************9
+6ti7_M/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 6ti7_M/1-40    PP 79*************************************9
+6ti7_O/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 6ti7_O/1-40    PP 79*************************************9
+7q4b_A/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 7q4b_A/1-40    PP 79*************************************9
+7q4b_B/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 7q4b_B/1-40    PP 79*************************************9
+7q4b_C/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 7q4b_C/1-40    PP 79*************************************9
+7q4b_D/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 7q4b_D/1-40    PP 79*************************************9
+7q4b_E/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 7q4b_E/1-40    PP 79*************************************9
+7q4b_F/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 7q4b_F/1-40    PP 79*************************************9
+7q4b_G/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 7q4b_G/1-40    PP 79*************************************9
+7q4b_H/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 7q4b_H/1-40    PP 79*************************************9
+7q4b_I/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 7q4b_I/1-40    PP 79*************************************9
+7q4b_R/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 7q4b_R/1-40    PP 79*************************************9
+7q4m_A/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 7q4m_A/1-40    PP 79*************************************9
+7q4m_B/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 7q4m_B/1-40    PP 79*************************************9
+7q4m_C/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 7q4m_C/1-40    PP 79*************************************9
+7q4m_D/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 7q4m_D/1-40    PP 79*************************************9
+7q4m_E/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 7q4m_E/1-40    PP 79*************************************9
+7q4m_F/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 7q4m_F/1-40    PP 79*************************************9
+7q4m_G/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 7q4m_G/1-40    PP 79*************************************9
+7q4m_H/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 7q4m_H/1-40    PP 79*************************************9
+7q4m_I/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 7q4m_I/1-40    PP 79*************************************9
+7q4m_J/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 7q4m_J/1-40    PP 79*************************************9
+7b3j_A/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 7b3j_A/1-40    PP 79*************************************9
+7b3k_A/1-40            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 7b3k_A/1-40    PP 79*************************************9
+2lp1_A/2-41            DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 2lp1_A/2-41    PP 79*************************************9
+2lnq_A/1-40            DAEFRHDSGYEVHHQKLVFFAENVGSNKGAIIGLMVGGVV
+#=GR 2lnq_A/1-40    PP 79*************************************9
+2lnq_B/1-40            DAEFRHDSGYEVHHQKLVFFAENVGSNKGAIIGLMVGGVV
+#=GR 2lnq_B/1-40    PP 79*************************************9
+2lnq_C/1-40            DAEFRHDSGYEVHHQKLVFFAENVGSNKGAIIGLMVGGVV
+#=GR 2lnq_C/1-40    PP 79*************************************9
+2lnq_D/1-40            DAEFRHDSGYEVHHQKLVFFAENVGSNKGAIIGLMVGGVV
+#=GR 2lnq_D/1-40    PP 79*************************************9
+2lnq_E/1-40            DAEFRHDSGYEVHHQKLVFFAENVGSNKGAIIGLMVGGVV
+#=GR 2lnq_E/1-40    PP 79*************************************9
+2lnq_F/1-40            DAEFRHDSGYEVHHQKLVFFAENVGSNKGAIIGLMVGGVV
+#=GR 2lnq_F/1-40    PP 79*************************************9
+2lnq_G/1-40            DAEFRHDSGYEVHHQKLVFFAENVGSNKGAIIGLMVGGVV
+#=GR 2lnq_G/1-40    PP 79*************************************9
+2lnq_H/1-40            DAEFRHDSGYEVHHQKLVFFAENVGSNKGAIIGLMVGGVV
+#=GR 2lnq_H/1-40    PP 79*************************************9
+7o1q_A/106-145         DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 7o1q_A/106-145 PP 79*************************************9
+7o1q_B/106-145         DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 7o1q_B/106-145 PP 79*************************************9
+7o1q_C/106-145         DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 7o1q_C/106-145 PP 79*************************************9
+7o1q_D/106-145         DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 7o1q_D/106-145 PP 79*************************************9
+7o1q_E/106-145         DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 7o1q_E/106-145 PP 79*************************************9
+7o1q_F/106-145         DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 7o1q_F/106-145 PP 79*************************************9
+7o1q_G/106-145         DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 7o1q_G/106-145 PP 79*************************************9
+5buo_A/304-342         DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGV-
+#=GR 5buo_A/304-342 PP 79************************************9.
+5buo_B/304-342         DAEFRHDSGYEVHHQKLVFFAEDVGSNKGAIIGLMVGGV-
+#=GR 5buo_B/304-342 PP 79************************************9.
+2mvx_A/1-39            DAEFRHDSGYEVHHQKLVFFA-DVGSNKGAIIGLMVGGVV
+#=GR 2mvx_A/1-39    PP 79*******************.9****************9
+2mvx_B/1-39            DAEFRHDSGYEVHHQKLVFFA-DVGSNKGAIIGLMVGGVV
+#=GR 2mvx_B/1-39    PP 79*******************.9****************9
+2mvx_C/1-39            DAEFRHDSGYEVHHQKLVFFA-DVGSNKGAIIGLMVGGVV
+#=GR 2mvx_C/1-39    PP 79*******************.9****************9
+2mvx_D/1-39            DAEFRHDSGYEVHHQKLVFFA-DVGSNKGAIIGLMVGGVV
+#=GR 2mvx_D/1-39    PP 79*******************.9****************9
+2mvx_E/1-39            DAEFRHDSGYEVHHQKLVFFA-DVGSNKGAIIGLMVGGVV
+#=GR 2mvx_E/1-39    PP 79*******************.9****************9
+2mvx_F/1-39            DAEFRHDSGYEVHHQKLVFFA-DVGSNKGAIIGLMVGGVV
+#=GR 2mvx_F/1-39    PP 79*******************.9****************9
+2mvx_G/1-39            DAEFRHDSGYEVHHQKLVFFA-DVGSNKGAIIGLMVGGVV
+#=GR 2mvx_G/1-39    PP 79*******************.9****************9
+2mvx_H/1-39            DAEFRHDSGYEVHHQKLVFFA-DVGSNKGAIIGLMVGGVV
+#=GR 2mvx_H/1-39    PP 79*******************.9****************9
+2mvx_I/1-39            DAEFRHDSGYEVHHQKLVFFA-DVGSNKGAIIGLMVGGVV
+#=GR 2mvx_I/1-39    PP 79*******************.9****************9
+2mvx_J/1-39            DAEFRHDSGYEVHHQKLVFFA-DVGSNKGAIIGLMVGGVV
+#=GR 2mvx_J/1-39    PP 79*******************.9****************9
+1hz3_A/1-26            ---------YEVHHQKLVFFAEDVGSNKGAIIGLM-----
+#=GR 1hz3_A/1-26    PP .........9*************************.....
+5aef_A/1-26            --------------QKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 5aef_A/1-26    PP ..............8************************9
+5aef_B/1-26            --------------QKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 5aef_B/1-26    PP ..............8************************9
+2llm_A/2-28            -------------SQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 2llm_A/2-28    PP .............59************************9
+2loh_A/2-28            -------------SQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 2loh_A/2-28    PP .............59************************9
+2loh_B/2-28            -------------SQKLVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 2loh_B/2-28    PP .............59************************9
+3moq_A/76-110          -----EDSGTYKCQAFYVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 3moq_A/76-110  PP .....578999999*************************9
+3moq_B/76-110          -----EDSGTYKCQAFYVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 3moq_B/76-110  PP .....578999999*************************9
+3moq_C/76-110          -----EDSGTYKCQAFYVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 3moq_C/76-110  PP .....578999999*************************9
+3moq_D/76-110          -----EDSGTYKCQAFYVFFAEDVGSNKGAIIGLMVGGVV
+#=GR 3moq_D/76-110  PP .....578999999*************************9
+2mpz_A/1-26            --------------QKLVFFAENVGSNKGAIIGLMVGGVV
+#=GR 2mpz_A/1-26    PP ..............8************************9
+2mpz_B/1-26            --------------QKLVFFAENVGSNKGAIIGLMVGGVV
+#=GR 2mpz_B/1-26    PP ..............8************************9
+2mpz_C/1-26            --------------QKLVFFAENVGSNKGAIIGLMVGGVV
+#=GR 2mpz_C/1-26    PP ..............8************************9
+2mpz_D/1-26            --------------QKLVFFAENVGSNKGAIIGLMVGGVV
+#=GR 2mpz_D/1-26    PP ..............8************************9
+2mpz_E/1-26            --------------QKLVFFAENVGSNKGAIIGLMVGGVV
+#=GR 2mpz_E/1-26    PP ..............8************************9
+2mpz_F/1-26            --------------QKLVFFAENVGSNKGAIIGLMVGGVV
+#=GR 2mpz_F/1-26    PP ..............8************************9
+2mpz_G/1-26            --------------QKLVFFAENVGSNKGAIIGLMVGGVV
+#=GR 2mpz_G/1-26    PP ..............8************************9
+2mpz_H/1-26            --------------QKLVFFAENVGSNKGAIIGLMVGGVV
+#=GR 2mpz_H/1-26    PP ..............8************************9
+2mpz_I/1-26            --------------QKLVFFAENVGSNKGAIIGLMVGGVV
+#=GR 2mpz_I/1-26    PP ..............8************************9
+2mpz_J/1-26            --------------QKLVFFAENVGSNKGAIIGLMVGGVV
+#=GR 2mpz_J/1-26    PP ..............8************************9
+2mpz_K/1-26            --------------QKLVFFAENVGSNKGAIIGLMVGGVV
+#=GR 2mpz_K/1-26    PP ..............8************************9
+2mpz_L/1-26            --------------QKLVFFAENVGSNKGAIIGLMVGGVV
+#=GR 2mpz_L/1-26    PP ..............8************************9
+2mpz_M/1-26            --------------QKLVFFAENVGSNKGAIIGLMVGGVV
+#=GR 2mpz_M/1-26    PP ..............8************************9
+2mpz_N/1-26            --------------QKLVFFAENVGSNKGAIIGLMVGGVV
+#=GR 2mpz_N/1-26    PP ..............8************************9
+2mpz_O/1-26            --------------QKLVFFAENVGSNKGAIIGLMVGGVV
+#=GR 2mpz_O/1-26    PP ..............8************************9
+2mpz_P/1-26            --------------QKLVFFAENVGSNKGAIIGLMVGGVV
+#=GR 2mpz_P/1-26    PP ..............8************************9
+2mpz_Q/1-26            --------------QKLVFFAENVGSNKGAIIGLMVGGVV
+#=GR 2mpz_Q/1-26    PP ..............8************************9
+2mpz_R/1-26            --------------QKLVFFAENVGSNKGAIIGLMVGGVV
+#=GR 2mpz_R/1-26    PP ..............8************************9
+2mpz_S/1-26            --------------QKLVFFAENVGSNKGAIIGLMVGGVV
+#=GR 2mpz_S/1-26    PP ..............8************************9
+2mpz_T/1-26            --------------QKLVFFAENVGSNKGAIIGLMVGGVV
+#=GR 2mpz_T/1-26    PP ..............8************************9
+2mpz_U/1-26            --------------QKLVFFAENVGSNKGAIIGLMVGGVV
+#=GR 2mpz_U/1-26    PP ..............8************************9
+2mpz_V/1-26            --------------QKLVFFAENVGSNKGAIIGLMVGGVV
+#=GR 2mpz_V/1-26    PP ..............8************************9
+2mpz_W/1-26            --------------QKLVFFAENVGSNKGAIIGLMVGGVV
+#=GR 2mpz_W/1-26    PP ..............8************************9
+2mpz_X/1-26            --------------QKLVFFAENVGSNKGAIIGLMVGGVV
+#=GR 2mpz_X/1-26    PP ..............8************************9
+2mpz_Y/1-26            --------------QKLVFFAENVGSNKGAIIGLMVGGVV
+#=GR 2mpz_Y/1-26    PP ..............8************************9
+2mpz_Z/1-26            --------------QKLVFFAENVGSNKGAIIGLMVGGVV
+#=GR 2mpz_Z/1-26    PP ..............8************************9
+2mpz_a/1-26            --------------QKLVFFAENVGSNKGAIIGLMVGGVV
+#=GR 2mpz_a/1-26    PP ..............8************************9
+1amb_A/1-28            DAEFRHDSGYEVHHQKLVFFAEDVGSNK------------
+#=GR 1amb_A/1-28    PP 79*************************9............
+1amc_A/1-28            DAEFRHDSGYEVHHQKLVFFAEDVGSNK------------
+#=GR 1amc_A/1-28    PP 79*************************9............
+3bae_A/1-28            DAEFRHDSGYEVHHQKLVFFAEDVGSNK------------
+#=GR 3bae_A/1-28    PP 79*************************9............
+4hix_A/1-28            DAEFRHDSGYEVHHQKLVFFAEDVGSNK------------
+#=GR 4hix_A/1-28    PP 79*************************9............
+1bjb_A/1-28            DAEFRHDSGYEVHHQELVFFAEDVGSNK------------
+#=GR 1bjb_A/1-28    PP 79*************************9............
+6iyc_E/2-25            ----------------LVFFAEDCGSNKGAIIGLMVGGVV
+#=GR 6iyc_E/2-25    PP ................8**********************9
+1bjc_A/1-28            DAEFRHDSGYEVHHQFLVFFAEDVGSNK------------
+#=GR 1bjc_A/1-28    PP 79*************************9............
+1nmj_A/1-28            DAEFGHDSGFEVRHQKLVFFAEDVGSNK------------
+#=GR 1nmj_A/1-28    PP 799************************9............
+5hox_A/2-21            ----------------LVFFAEDCGSNKCAIIGLMV----
+#=GR 5hox_A/2-21    PP ................9******************9....
+5hox_B/2-21            ----------------LVFFAEDCGSNKCAIIGLMV----
+#=GR 5hox_B/2-21    PP ................9******************9....
+5hox_C/2-21            ----------------LVFFAEDCGSNKCAIIGLMV----
+#=GR 5hox_C/2-21    PP ................9******************9....
+5hox_D/2-21            ----------------LVFFAEDCGSNKCAIIGLMV----
+#=GR 5hox_D/2-21    PP ................9******************9....
+5hox_E/2-21            ----------------LVFFAEDCGSNKCAIIGLMV----
+#=GR 5hox_E/2-21    PP ................9******************9....
+5hox_F/2-21            ----------------LVFFAEDCGSNKCAIIGLMV----
+#=GR 5hox_F/2-21    PP ................9******************9....
+5hoy_A/2-21            ----------------LVFFAEDCGSNKCAIIGLMV----
+#=GR 5hoy_A/2-21    PP ................9******************9....
+5hoy_B/2-21            ----------------LVFFAEDCGSNKCAIIGLMV----
+#=GR 5hoy_B/2-21    PP ................9******************9....
+5hoy_C/2-21            ----------------LVFFAEDCGSNKCAIIGLMV----
+#=GR 5hoy_C/2-21    PP ................9******************9....
+5hoy_D/2-21            ----------------LVFFAEDCGSNKCAIIGLMV----
+#=GR 5hoy_D/2-21    PP ................9******************9....
+5hoy_E/2-21            ----------------LVFFAEDCGSNKCAIIGLMV----
+#=GR 5hoy_E/2-21    PP ................9******************9....
+5hoy_F/2-21            ----------------LVFFAEDCGSNKCAIIGLMV----
+#=GR 5hoy_F/2-21    PP ................9******************9....
+6wxm_A/2-22            --------------AKLVFFCEDVGSNKGACIGLM-----
+#=GR 6wxm_A/2-22    PP ..............59*******************.....
+6wxm_B/2-22            --------------AKLVFFCEDVGSNKGACIGLM-----
+#=GR 6wxm_B/2-22    PP ..............59*******************.....
+6wxm_C/2-22            --------------AKLVFFCEDVGSNKGACIGLM-----
+#=GR 6wxm_C/2-22    PP ..............59*******************.....
+6wxm_D/2-22            --------------AKLVFFCEDVGSNKGACIGLM-----
+#=GR 6wxm_D/2-22    PP ..............59*******************.....
+6wxm_E/2-22            --------------AKLVFFCEDVGSNKGACIGLM-----
+#=GR 6wxm_E/2-22    PP ..............59*******************.....
+6wxm_F/2-22            --------------AKLVFFCEDVGSNKGACIGLM-----
+#=GR 6wxm_F/2-22    PP ..............59*******************.....
+6wxm_G/2-22            --------------AKLVFFCEDVGSNKGACIGLM-----
+#=GR 6wxm_G/2-22    PP ..............59*******************.....
+6wxm_H/2-22            --------------AKLVFFCEDVGSNKGACIGLM-----
+#=GR 6wxm_H/2-22    PP ..............59*******************.....
+6wxm_I/2-22            --------------AKLVFFCEDVGSNKGACIGLM-----
+#=GR 6wxm_I/2-22    PP ..............59*******************.....
+6wxm_J/2-22            --------------AKLVFFCEDVGSNKGACIGLM-----
+#=GR 6wxm_J/2-22    PP ..............59*******************.....
+6wxm_K/2-22            --------------AKLVFFCEDVGSNKGACIGLM-----
+#=GR 6wxm_K/2-22    PP ..............59*******************.....
+2mj1_A/1-18            ----------------LVFFAEDVGSNKGAIIGL------
+#=GR 2mj1_A/1-18    PP ................8****************9......
+7jxn_A/3-20            ----------------LVFAAEDVGSNKGAIIGL------
+#=GR 7jxn_A/3-20    PP ................9****************9......
+7jxn_B/3-20            ----------------LVFAAEDVGSNKGAIIGL------
+#=GR 7jxn_B/3-20    PP ................9****************9......
+7jxn_C/3-20            ----------------LVFAAEDVGSNKGAIIGL------
+#=GR 7jxn_C/3-20    PP ................9****************9......
+7jxn_D/3-20            ----------------LVFAAEDVGSNKGAIIGL------
+#=GR 7jxn_D/3-20    PP ................9****************9......
+5how_A/2-21            ----------------LVFFAEDCGSNKCAIIGLAV----
+#=GR 5how_A/2-21    PP ................9*****************87....
+5how_B/2-21            ----------------LVFFAEDCGSNKCAIIGLAV----
+#=GR 5how_B/2-21    PP ................9*****************87....
+5how_C/2-21            ----------------LVFFAEDCGSNKCAIIGLAV----
+#=GR 5how_C/2-21    PP ................9*****************87....
+5how_D/2-21            ----------------LVFFAEDCGSNKCAIIGLAV----
+#=GR 5how_D/2-21    PP ................9*****************87....
+5how_E/2-21            ----------------LVFFAEDCGSNKCAIIGLAV----
+#=GR 5how_E/2-21    PP ................9*****************87....
+5how_F/2-21            ----------------LVFFAEDCGSNKCAIIGLAV----
+#=GR 5how_F/2-21    PP ................9*****************87....
+4xxd_C/1-17            -----------VHHQKLVFFAEDVGSNK------------
+#=GR 4xxd_C/1-17    PP ...........9***************9............
+4xxd_F/1-17            -----------VHHQKLVFFAEDVGSNK------------
+#=GR 4xxd_F/1-17    PP ...........9***************9............
+7jxo_A/3-20            ----------------CVFACEDVGSNKGAIIGL------
+#=GR 7jxo_A/3-20    PP ................8****************9......
+7jxo_B/3-20            ----------------CVFACEDVGSNKGAIIGL------
+#=GR 7jxo_B/3-20    PP ................8****************9......
+7jxo_C/3-20            ----------------CVFACEDVGSNKGAIIGL------
+#=GR 7jxo_C/3-20    PP ................8****************9......
+6nb9_A/1-15            -------------------FAEDVGSNKGAIIGL------
+#=GR 6nb9_A/1-15    PP ...................9*************9......
+6oiz_A/1-15            -------------------FAEDVGSNKGAIIGL------
+#=GR 6oiz_A/1-15    PP ...................9*************9......
+6yhx_A/1-15            -------------------------SNKGAIIGLMVGGVV
+#=GR 6yhx_A/1-15    PP .........................9*************9
+6yhf_A/1-15            -------------------------SNKGAIIGLMVGGVV
+#=GR 6yhf_A/1-15    PP .........................9*************9
+6yhp_A/1-15            -------------------------SNKGAIIGLMVGGVV
+#=GR 6yhp_A/1-15    PP .........................9*************9
+5vzy_A/1-15            ----------EVHHQKLVFFAEDVG---------------
+#=GR 5vzy_A/1-15    PP ..........8*************9...............
+7e6p_A/1-16            --------------QKCVFFAEDVGSNCGA----------
+#=GR 7e6p_A/1-16    PP ..............8**************9..........
+6yho_A/1-15            -------------------------SNKGAIIGLMVGPVV
+#=GR 6yho_A/1-15    PP .........................9***********998
+6yhi_A/1-15            -------------------------SNKGAIIGLMVGLVV
+#=GR 6yhi_A/1-15    PP .........................9***********998
+2lz3_A/4-16            ---------------------------KGAIIGLMVGGVV
+#=GR 2lz3_A/4-16    PP ...........................************9
+2lz3_B/4-16            ---------------------------KGAIIGLMVGGVV
+#=GR 2lz3_B/4-16    PP ...........................************9
+2lz4_A/4-16            ---------------------------KGAIIGLMVGGVV
+#=GR 2lz4_A/4-16    PP ...........................************9
+2lz4_B/4-16            ---------------------------KGAIIGLMVGGVV
+#=GR 2lz4_B/4-16    PP ...........................************9
+1qcm_A/1-11            ------------------------GSNKGAIIGLM-----
+#=GR 1qcm_A/1-11    PP ........................9**********.....
+1qwp_A/1-11            ------------------------GSNKGAIIGLM-----
+#=GR 1qwp_A/1-11    PP ........................9**********.....
+1qxc_A/1-11            ------------------------GSNKGAIIGLM-----
+#=GR 1qxc_A/1-11    PP ........................9**********.....
+1qyt_A/1-11            ------------------------GSNKGAIIGLM-----
+#=GR 1qyt_A/1-11    PP ........................9**********.....
+5myx_E/2-16            ---FRHDSGYEVHHQKLV----------------------
+#=GR 5myx_E/2-16    PP ...7*************9......................
+5myx_F/2-16            ---FRHDSGYEVHHQKLV----------------------
+#=GR 5myx_F/2-16    PP ...7*************9......................
+1ze7_A/2-17            DAEFRHDSGYEVHHQK------------------------
+#=GR 1ze7_A/2-17    PP 79*************9........................
+1ze9_A/2-17            DAEFRHDSGYEVHHQK------------------------
+#=GR 1ze9_A/2-17    PP 79*************9........................
+5w3p_P/2-17            DAEFRHDSGYEVHHQK------------------------
+#=GR 5w3p_P/2-17    PP 79*************9........................
+2bp4_A/1-16            DAEFRHDSGYEVHHQK------------------------
+#=GR 2bp4_A/1-16    PP 79*************8........................
+3bkj_A/1-16            DAEFRHDSGYEVHHQK------------------------
+#=GR 3bkj_A/1-16    PP 79*************8........................
+5vos_A/1-11            -----------------------VGSNKGAIIGL------
+#=GR 5vos_A/1-11    PP .......................9*********9......
+2mgt_A/2-17            DAEFRRDSGYEVHHQK------------------------
+#=GR 2mgt_A/2-17    PP 79*************9........................
+2mgt_B/2-17            DAEFRRDSGYEVHHQK------------------------
+#=GR 2mgt_B/2-17    PP 79*************9........................
+3u0t_E/1-11            -----------------------------AIIGLMVGGVV
+#=GR 3u0t_E/1-11    PP .............................9*********9
+3u0t_F/1-11            -----------------------------AIIGLMVGGVV
+#=GR 3u0t_F/1-11    PP .............................9*********9
+6o4j_A/2-12            ---------------KLVFFAENVGS--------------
+#=GR 6o4j_A/2-12    PP ...............9*********9..............
+6o4j_B/2-12            ---------------KLVFFAENVGS--------------
+#=GR 6o4j_B/2-12    PP ...............9*********9..............
+4f37_A/1-16            DAEFRHDSGYEVHHQK------------------------
+#=GR 4f37_A/1-16    PP 79*************9........................
+4f37_B/1-16            DAEFRHDSGYEVHHQK------------------------
+#=GR 4f37_B/1-16    PP 79*************9........................
+6vu4_A/1-17            -------------HAKLVFFAEA------AIIGLMV----
+#=GR 6vu4_A/1-17    PP .............89*******5......******9....
+6vu4_C/1-17            -------------HAKLVFFAEA------AIIGLMV----
+#=GR 6vu4_C/1-17    PP .............89*******5......******9....
+5v65_A/2-16            ----------------LVFFAEDA-----AIIGLMV----
+#=GR 5v65_A/2-16    PP ................9******7.....9*****9....
+5v65_B/2-16            ----------------LVFFAEDA-----AIIGLMV----
+#=GR 5v65_B/2-16    PP ................9******7.....9*****9....
+5v65_C/2-16            ----------------LVFFAEDA-----AIIGLMV----
+#=GR 5v65_C/2-16    PP ................9******7.....9*****9....
+5v65_D/2-16            ----------------LVFFAEDA-----AIIGLMV----
+#=GR 5v65_D/2-16    PP ................9******7.....9*****9....
+5v65_E/2-16            ----------------LVFFAEDA-----AIIGLMV----
+#=GR 5v65_E/2-16    PP ................9******7.....9*****9....
+5v65_F/2-16            ----------------LVFFAEDA-----AIIGLMV----
+#=GR 5v65_F/2-16    PP ................9******7.....9*****9....
+5v65_G/2-16            ----------------LVFFAEDA-----AIIGLMV----
+#=GR 5v65_G/2-16    PP ................9******7.....9*****9....
+5v65_H/2-16            ----------------LVFFAEDA-----AIIGLMV----
+#=GR 5v65_H/2-16    PP ................9******7.....9*****9....
+5v65_I/2-16            ----------------LVFFAEDA-----AIIGLMV----
+#=GR 5v65_I/2-16    PP ................9******7.....9*****9....
+5v65_J/2-16            ----------------LVFFAEDA-----AIIGLMV----
+#=GR 5v65_J/2-16    PP ................9******7.....9*****9....
+5v65_K/2-16            ----------------LVFFAEDA-----AIIGLMV----
+#=GR 5v65_K/2-16    PP ................9******7.....9*****9....
+5v65_L/2-16            ----------------LVFFAEDA-----AIIGLMV----
+#=GR 5v65_L/2-16    PP ................9******7.....9*****9....
+5v65_M/2-16            ----------------LVFFAEDA-----AIIGLMV----
+#=GR 5v65_M/2-16    PP ................9******7.....9*****9....
+5v65_N/2-16            ----------------LVFFAEDA-----AIIGLMV----
+#=GR 5v65_N/2-16    PP ................9******7.....9*****9....
+5v65_O/2-16            ----------------LVFFAEDA-----AIIGLMV----
+#=GR 5v65_O/2-16    PP ................9******7.....9*****9....
+5v65_P/2-16            ----------------LVFFAEDA-----AIIGLMV----
+#=GR 5v65_P/2-16    PP ................9******7.....9*****9....
+5myk_C/3-16            ----GHDSGFEVRHQKLV----------------------
+#=GR 5myk_C/3-16    PP ....69***********9......................
+4ivh_A/2-12            -------------AQKLVFFAEDA----------------
+#=GR 4ivh_A/2-12    PP .............59********5................
+2li9_A/2-17            DAEFGHDSGFEVRHQK------------------------
+#=GR 2li9_A/2-17    PP 79*************9........................
+2li9_B/2-17            DAEFGHDSGFEVRHQK------------------------
+#=GR 2li9_B/2-17    PP 79*************9........................
+5w4h_A/2-16            ---------------KLVFFAEA------AIIGLMV----
+#=GR 5w4h_A/2-16    PP ...............9******5......******9....
+5w4h_B/2-16            ---------------KLVFFAEA------AIIGLMV----
+#=GR 5w4h_B/2-16    PP ...............9******5......******9....
+5w4h_C/2-16            ---------------KLVFFAEA------AIIGLMV----
+#=GR 5w4h_C/2-16    PP ...............9******5......******9....
+5w4i_A/2-16            ---------------KLVFFAEA------AIIGLMV----
+#=GR 5w4i_A/2-16    PP ...............9******5......******9....
+5w4i_B/2-16            ---------------KLVFFAEA------AIIGLMV----
+#=GR 5w4i_B/2-16    PP ...............9******5......******9....
+5w4i_C/2-16            ---------------KLVFFAEA------AIIGLMV----
+#=GR 5w4i_C/2-16    PP ...............9******5......******9....
+5v63_A/2-16            ---------------KLVFFAEA------AIIGLMV----
+#=GR 5v63_A/2-16    PP ...............9******5......******9....
+3jti_B/1-8             ---------------------------KGAIIGLM-----
+#=GR 3jti_B/1-8     PP ...........................9*******.....
+5v64_A/2-16            --------------QKLVFFAA-------AIIGLMV----
+#=GR 5v64_A/2-16    PP ..............99****96.......******9....
+4q8d_A/2-11            --------------QKLVFFAEDA----------------
+#=GR 4q8d_A/2-11    PP ..............9********5................
+4q8d_B/2-11            --------------QKLVFFAEDA----------------
+#=GR 4q8d_B/2-11    PP ..............9********5................
+4ntp_A/2-16            ----------------LVFFAEDA-----AIIGLAV----
+#=GR 4ntp_A/2-16    PP ................9******7.....9999977....
+4ntp_B/2-16            ----------------LVFFAEDA-----AIIGLAV----
+#=GR 4ntp_B/2-16    PP ................9******7.....9999977....
+4ntp_C/2-16            ----------------LVFFAEDA-----AIIGLAV----
+#=GR 4ntp_C/2-16    PP ................9******7.....9999977....
+4ntp_D/2-16            ----------------LVFFAEDA-----AIIGLAV----
+#=GR 4ntp_D/2-16    PP ................9******7.....9999977....
+4ntp_E/2-16            ----------------LVFFAEDA-----AIIGLAV----
+#=GR 4ntp_E/2-16    PP ................9******7.....9999977....
+4ntp_F/2-16            ----------------LVFFAEDA-----AIIGLAV----
+#=GR 4ntp_F/2-16    PP ................9******7.....9999977....
+4ntp_G/2-16            ----------------LVFFAEDA-----AIIGLAV----
+#=GR 4ntp_G/2-16    PP ................9******7.....9999977....
+4ntp_H/2-16            ----------------LVFFAEDA-----AIIGLAV----
+#=GR 4ntp_H/2-16    PP ................9******7.....9999977....
+4ntp_I/2-16            ----------------LVFFAEDA-----AIIGLAV----
+#=GR 4ntp_I/2-16    PP ................9******7.....9999977....
+4ntp_J/2-16            ----------------LVFFAEDA-----AIIGLAV----
+#=GR 4ntp_J/2-16    PP ................9******7.....9999977....
+4ntp_K/2-16            ----------------LVFFAEDA-----AIIGLAV----
+#=GR 4ntp_K/2-16    PP ................9******7.....9999977....
+4ntp_L/2-16            ----------------LVFFAEDA-----AIIGLAV----
+#=GR 4ntp_L/2-16    PP ................9******7.....9999977....
+4ntp_M/2-16            ----------------LVFFAEDA-----AIIGLAV----
+#=GR 4ntp_M/2-16    PP ................9******7.....9999977....
+4ntp_N/2-16            ----------------LVFFAEDA-----AIIGLAV----
+#=GR 4ntp_N/2-16    PP ................9******7.....9999977....
+4ntp_O/2-16            ----------------LVFFAEDA-----AIIGLAV----
+#=GR 4ntp_O/2-16    PP ................9******7.....9999977....
+4ntp_P/2-16            ----------------LVFFAEDA-----AIIGLAV----
+#=GR 4ntp_P/2-16    PP ................9******7.....9999977....
+4ntr_A/2-16            ----------------LVFFAEDA-----AIIGLAV----
+#=GR 4ntr_A/2-16    PP ................9******7.....9999977....
+4ntr_B/2-16            ----------------LVFFAEDA-----AIIGLAV----
+#=GR 4ntr_B/2-16    PP ................9******7.....9999977....
+4ntr_C/2-16            ----------------LVFFAEDA-----AIIGLAV----
+#=GR 4ntr_C/2-16    PP ................9******7.....9999977....
+4ntr_D/2-16            ----------------LVFFAEDA-----AIIGLAV----
+#=GR 4ntr_D/2-16    PP ................9******7.....9999977....
+4ntr_E/2-16            ----------------LVFFAEDA-----AIIGLAV----
+#=GR 4ntr_E/2-16    PP ................9******7.....9999977....
+4ntr_F/2-16            ----------------LVFFAEDA-----AIIGLAV----
+#=GR 4ntr_F/2-16    PP ................9******7.....9999977....
+4ntr_G/2-16            ----------------LVFFAEDA-----AIIGLAV----
+#=GR 4ntr_G/2-16    PP ................9******7.....9999977....
+4ntr_H/2-16            ----------------LVFFAEDA-----AIIGLAV----
+#=GR 4ntr_H/2-16    PP ................9******7.....9999977....
+4ntr_I/2-16            ----------------LVFFAEDA-----AIIGLAV----
+#=GR 4ntr_I/2-16    PP ................9******7.....9999977....
+4ntr_J/2-16            ----------------LVFFAEDA-----AIIGLAV----
+#=GR 4ntr_J/2-16    PP ................9******7.....9999977....
+4ntr_K/2-16            ----------------LVFFAEDA-----AIIGLAV----
+#=GR 4ntr_K/2-16    PP ................9******7.....9999977....
+4ntr_L/2-16            ----------------LVFFAEDA-----AIIGLAV----
+#=GR 4ntr_L/2-16    PP ................9******7.....9999977....
+4ntr_M/2-16            ----------------LVFFAEDA-----AIIGLAV----
+#=GR 4ntr_M/2-16    PP ................9******7.....9999977....
+4ntr_N/2-16            ----------------LVFFAEDA-----AIIGLAV----
+#=GR 4ntr_N/2-16    PP ................9******7.....9999977....
+4ntr_O/2-16            ----------------LVFFAEDA-----AIIGLAV----
+#=GR 4ntr_O/2-16    PP ................9******7.....9999977....
+4ntr_P/2-16            ----------------LVFFAEDA-----AIIGLAV----
+#=GR 4ntr_P/2-16    PP ................9******7.....9999977....
+4nw8_A/2-16            ----------------LVFFAEDA-----AIIGLAV----
+#=GR 4nw8_A/2-16    PP ................9******7.....9999977....
+4nw8_B/2-16            ----------------LVFFAEDA-----AIIGLAV----
+#=GR 4nw8_B/2-16    PP ................9******7.....9999977....
+4nw8_C/2-16            ----------------LVFFAEDA-----AIIGLAV----
+#=GR 4nw8_C/2-16    PP ................9******7.....9999977....
+4nw8_D/2-16            ----------------LVFFAEDA-----AIIGLAV----
+#=GR 4nw8_D/2-16    PP ................9******7.....9999977....
+4nw8_E/2-16            ----------------LVFFAEDA-----AIIGLAV----
+#=GR 4nw8_E/2-16    PP ................9******7.....9999977....
+4nw8_F/2-16            ----------------LVFFAEDA-----AIIGLAV----
+#=GR 4nw8_F/2-16    PP ................9******7.....9999977....
+4nw8_G/2-16            ----------------LVFFAEDA-----AIIGLAV----
+#=GR 4nw8_G/2-16    PP ................9******7.....9999977....
+4nw8_H/2-16            ----------------LVFFAEDA-----AIIGLAV----
+#=GR 4nw8_H/2-16    PP ................9******7.....9999977....
+4nw8_I/2-16            ----------------LVFFAEDA-----AIIGLAV----
+#=GR 4nw8_I/2-16    PP ................9******7.....9999977....
+4nw8_J/2-16            ----------------LVFFAEDA-----AIIGLAV----
+#=GR 4nw8_J/2-16    PP ................9******7.....9999977....
+4nw8_K/2-16            ----------------LVFFAEDA-----AIIGLAV----
+#=GR 4nw8_K/2-16    PP ................9******7.....9999977....
+4nw8_L/2-16            ----------------LVFFAEDA-----AIIGLAV----
+#=GR 4nw8_L/2-16    PP ................9******7.....9999977....
+4nw9_A/2-16            ----------------LVFFAEDA-----AIIGLAV----
+#=GR 4nw9_A/2-16    PP ................9******7.....9999977....
+4nw9_B/2-16            ----------------LVFFAEDA-----AIIGLAV----
+#=GR 4nw9_B/2-16    PP ................9******7.....9999977....
+4nw9_C/2-16            ----------------LVFFAEDA-----AIIGLAV----
+#=GR 4nw9_C/2-16    PP ................9******7.....9999977....
+4nw9_D/2-16            ----------------LVFFAEDA-----AIIGLAV----
+#=GR 4nw9_D/2-16    PP ................9******7.....9999977....
+4nw9_E/2-16            ----------------LVFFAEDA-----AIIGLAV----
+#=GR 4nw9_E/2-16    PP ................9******7.....9999977....
+4nw9_F/2-16            ----------------LVFFAEDA-----AIIGLAV----
+#=GR 4nw9_F/2-16    PP ................9******7.....9999977....
+4nw9_G/2-16            ----------------LVFFAEDA-----AIIGLAV----
+#=GR 4nw9_G/2-16    PP ................9******7.....9999977....
+4nw9_H/2-16            ----------------LVFFAEDA-----AIIGLAV----
+#=GR 4nw9_H/2-16    PP ................9******7.....9999977....
+4nw9_I/2-16            ----------------LVFFAEDA-----AIIGLAV----
+#=GR 4nw9_I/2-16    PP ................9******7.....9999977....
+4nw9_J/2-16            ----------------LVFFAEDA-----AIIGLAV----
+#=GR 4nw9_J/2-16    PP ................9******7.....9999977....
+4nw9_K/2-16            ----------------LVFFAEDA-----AIIGLAV----
+#=GR 4nw9_K/2-16    PP ................9******7.....9999977....
+4nw9_L/2-16            ----------------LVFFAEDA-----AIIGLAV----
+#=GR 4nw9_L/2-16    PP ................9******7.....9999977....
+1x1p_A/11-19           ---------------------------RGPVIGPMV----
+#=GR 1x1p_A/11-19   PP ...........................5889****9....
+1x1p_A/199-210         ----------------------------GAIIGLAVGGVV
+#=GR 1x1p_A/199-210 PP ............................9**********9
+7jqt_A/3-16            ---------------KLVFFA------KAAIIGLM-----
+#=GR 7jqt_A/3-16    PP ...............899999......89******.....
+7jqs_A/2-16            --------------AKLVFFADA------AIIGLM-----
+#=GR 7jqs_A/2-16    PP ..............599****85......9****9.....
+5w4j_A/3-16            -----------------VFFAADA-----AIIGLMV----
+#=GR 5w4j_A/3-16    PP .................9999996.....9*****9....
+5w4j_B/3-16            -----------------VFFAADA-----AIIGLMV----
+#=GR 5w4j_B/3-16    PP .................9999996.....9*****9....
+5w4j_C/3-16            -----------------VFFAADA-----AIIGLMV----
+#=GR 5w4j_C/3-16    PP .................9999996.....9*****9....
+5w4j_D/3-16            -----------------VFFAADA-----AIIGLMV----
+#=GR 5w4j_D/3-16    PP .................9999996.....9*****9....
+5w4j_E/3-16            -----------------VFFAADA-----AIIGLMV----
+#=GR 5w4j_E/3-16    PP .................9999996.....9*****9....
+5w4j_F/3-16            -----------------VFFAADA-----AIIGLMV----
+#=GR 5w4j_F/3-16    PP .................9999996.....9*****9....
+7jqu_A/2-16            --------------AKLVFFAQ------AAIIGLM-----
+#=GR 7jqu_A/2-16    PP ..............59999997......59****9.....
+7jqu_B/2-16            --------------AKLVFFAQ------AAIIGLM-----
+#=GR 7jqu_B/2-16    PP ..............59999997......59****9.....
+7jqu_C/2-16            --------------AKLVFFAQ------AAIIGLM-----
+#=GR 7jqu_C/2-16    PP ..............59999997......59****9.....
+3t4g_A/2-8             -----------------------------AIIGLMV----
+#=GR 3t4g_A/2-8     PP .............................9*****9....
+3t4g_B/2-8             -----------------------------AIIGLMV----
+#=GR 3t4g_B/2-8     PP .............................9*****9....
+5csz_D/1-11            DAEFRHDSGYE-----------------------------
+#=GR 5csz_D/1-11    PP 89********8.............................
+5csz_E/1-11            DAEFRHDSGYE-----------------------------
+#=GR 5csz_E/1-11    PP 89********8.............................
+6co3_Q/1-11            DAEFRHDSGYE-----------------------------
+#=GR 6co3_Q/1-11    PP 89********8.............................
+1usq_A/108-128         ----------------GVFYKNDVGSW-GGIIGIYVDG--
+#=GR 1usq_A/108-128 PP ................69********6.88***98855..
+1usq_B/108-128         ----------------GVFYKNDVGSW-GGIIGIYVDG--
+#=GR 1usq_B/108-128 PP ................69********6.88***98855..
+1usq_C/108-128         ----------------GVFYKNDVGSW-GGIIGIYVDG--
+#=GR 1usq_C/108-128 PP ................69********6.88***98855..
+1usq_D/108-128         ----------------GVFYKNDVGSW-GGIIGIYVDG--
+#=GR 1usq_D/108-128 PP ................69********6.88***98855..
+1usq_E/108-128         ----------------GVFYKNDVGSW-GGIIGIYVDG--
+#=GR 1usq_E/108-128 PP ................69********6.88***98855..
+1usq_F/108-128         ----------------GVFYKNDVGSW-GGIIGIYVDG--
+#=GR 1usq_F/108-128 PP ................69********6.88***98855..
+2jkj_A/108-128         ----------------GVFYKNDVGSW-GGIIGIYVDG--
+#=GR 2jkj_A/108-128 PP ................69********6.88***98855..
+2jkj_B/108-128         ----------------GVFYKNDVGSW-GGIIGIYVDG--
+#=GR 2jkj_B/108-128 PP ................69********6.88***98855..
+2jkj_C/108-128         ----------------GVFYKNDVGSW-GGIIGIYVDG--
+#=GR 2jkj_C/108-128 PP ................69********6.88***98855..
+2jkj_D/108-128         ----------------GVFYKNDVGSW-GGIIGIYVDG--
+#=GR 2jkj_D/108-128 PP ................69********6.88***98855..
+2jkj_E/108-128         ----------------GVFYKNDVGSW-GGIIGIYVDG--
+#=GR 2jkj_E/108-128 PP ................69********6.88***98855..
+2jkj_F/108-128         ----------------GVFYKNDVGSW-GGIIGIYVDG--
+#=GR 2jkj_F/108-128 PP ................69********6.88***98855..
+2jkl_A/108-128         ----------------GVFYKNDVGSW-GGIIGIYVDG--
+#=GR 2jkl_A/108-128 PP ................69********6.88***98855..
+2jkl_B/108-128         ----------------GVFYKNDVGSW-GGIIGIYVDG--
+#=GR 2jkl_B/108-128 PP ................69********6.88***98855..
+2jkl_C/108-128         ----------------GVFYKNDVGSW-GGIIGIYVDG--
+#=GR 2jkl_C/108-128 PP ................69********6.88***98855..
+2jkl_D/108-128         ----------------GVFYKNDVGSW-GGIIGIYVDG--
+#=GR 2jkl_D/108-128 PP ................69********6.88***98855..
+2jkl_E/108-128         ----------------GVFYKNDVGSW-GGIIGIYVDG--
+#=GR 2jkl_E/108-128 PP ................69********6.88***98855..
+2jkl_F/108-128         ----------------GVFYKNDVGSW-GGIIGIYVDG--
+#=GR 2jkl_F/108-128 PP ................69********6.88***98855..
+2jkn_A/108-128         ----------------GVFYKNDVGSW-GGIIGIYVDG--
+#=GR 2jkn_A/108-128 PP ................69********6.88***98855..
+2jkn_B/108-128         ----------------GVFYKNDVGSW-GGIIGIYVDG--
+#=GR 2jkn_B/108-128 PP ................69********6.88***98855..
+2jkn_C/108-128         ----------------GVFYKNDVGSW-GGIIGIYVDG--
+#=GR 2jkn_C/108-128 PP ................69********6.88***98855..
+2jkn_D/108-128         ----------------GVFYKNDVGSW-GGIIGIYVDG--
+#=GR 2jkn_D/108-128 PP ................69********6.88***98855..
+2jkn_E/108-128         ----------------GVFYKNDVGSW-GGIIGIYVDG--
+#=GR 2jkn_E/108-128 PP ................69********6.88***98855..
+2jkn_F/108-128         ----------------GVFYKNDVGSW-GGIIGIYVDG--
+#=GR 2jkn_F/108-128 PP ................69********6.88***98855..
+2w5p_A/108-128         ----------------GVFYKNDVGSW-GGIIGIYVDG--
+#=GR 2w5p_A/108-128 PP ................69********6.88***98855..
+2w5p_B/108-128         ----------------GVFYKNDVGSW-GGIIGIYVDG--
+#=GR 2w5p_B/108-128 PP ................69********6.88***98855..
+2w5p_C/108-128         ----------------GVFYKNDVGSW-GGIIGIYVDG--
+#=GR 2w5p_C/108-128 PP ................69********6.88***98855..
+1ut1_A/107-127         ----------------GVFYKNDVGSW-GGIIGIYVDG--
+#=GR 1ut1_A/107-127 PP ................69********6.88***98855..
+1ut1_B/107-127         ----------------GVFYKNDVGSW-GGIIGIYVDG--
+#=GR 1ut1_B/107-127 PP ................69********6.88***98855..
+1ut1_C/107-127         ----------------GVFYKNDVGSW-GGIIGIYVDG--
+#=GR 1ut1_C/107-127 PP ................69********6.88***98855..
+1ut1_D/107-127         ----------------GVFYKNDVGSW-GGIIGIYVDG--
+#=GR 1ut1_D/107-127 PP ................69********6.88***98855..
+1ut1_E/107-127         ----------------GVFYKNDVGSW-GGIIGIYVDG--
+#=GR 1ut1_E/107-127 PP ................69********6.88***98855..
+1ut1_F/107-127         ----------------GVFYKNDVGSW-GGIIGIYVDG--
+#=GR 1ut1_F/107-127 PP ................69********6.88***98855..
+7jqr_A/3-16            ---------------KLVFFAG------AAIIGLM-----
+#=GR 7jqr_A/3-16    PP ...............8999995......49****9.....
+4mvk_B/2-7             -----------------VFFAED-----------------
+#=GR 4mvk_B/2-7     PP .................*****9.................
+6cg3_A/2-9             ----------------LVFFAEDA----------------
+#=GR 6cg3_A/2-9     PP ................9******6................
+5sur_A/2-16            ----------------CVFFCEDA-----AIIGLAV----
+#=GR 5sur_A/2-16    PP ................79*****7.....9999977....
+5sur_B/2-16            ----------------CVFFCEDA-----AIIGLAV----
+#=GR 5sur_B/2-16    PP ................79*****7.....9999977....
+5sur_C/2-16            ----------------CVFFCEDA-----AIIGLAV----
+#=GR 5sur_C/2-16    PP ................79*****7.....9999977....
+5sur_D/2-16            ----------------CVFFCEDA-----AIIGLAV----
+#=GR 5sur_D/2-16    PP ................79*****7.....9999977....
+5sus_A/2-16            ----------------CVFFCEDA-----AIIGLAV----
+#=GR 5sus_A/2-16    PP ................79*****7.....9999977....
+5sus_B/2-16            ----------------CVFFCEDA-----AIIGLAV----
+#=GR 5sus_B/2-16    PP ................79*****7.....9999977....
+5sus_C/2-16            ----------------CVFFCEDA-----AIIGLAV----
+#=GR 5sus_C/2-16    PP ................79*****7.....9999977....
+5sus_D/2-16            ----------------CVFFCEDA-----AIIGLAV----
+#=GR 5sus_D/2-16    PP ................79*****7.....9999977....
+5sut_A/2-16            ----------------CVFFCEDA-----AIIGLAV----
+#=GR 5sut_A/2-16    PP ................79*****7.....9999977....
+5sut_B/2-16            ----------------CVFFCEDA-----AIIGLAV----
+#=GR 5sut_B/2-16    PP ................79*****7.....9999977....
+5suu_A/2-16            ----------------CVFFCEDA-----AIIGLAV----
+#=GR 5suu_A/2-16    PP ................79*****7.....9999977....
+5suu_B/2-16            ----------------CVFFCEDA-----AIIGLAV----
+#=GR 5suu_B/2-16    PP ................79*****7.....9999977....
+3q2x_A/1-6             --------------------------NKGAII--------
+#=GR 3q2x_A/1-6     PP ..........................9****9........
+2y3j_A/1-6             -----------------------------AIIGLM-----
+#=GR 2y3j_A/1-6     PP .............................9*****.....
+2y3j_B/1-6             -----------------------------AIIGLM-----
+#=GR 2y3j_B/1-6     PP .............................9*****.....
+2y3j_C/1-6             -----------------------------AIIGLM-----
+#=GR 2y3j_C/1-6     PP .............................9*****.....
+2y3j_D/1-6             -----------------------------AIIGLM-----
+#=GR 2y3j_D/1-6     PP .............................9*****.....
+2y3j_E/1-6             -----------------------------AIIGLM-----
+#=GR 2y3j_E/1-6     PP .............................9*****.....
+2y3j_F/1-6             -----------------------------AIIGLM-----
+#=GR 2y3j_F/1-6     PP .............................9*****.....
+2y3j_G/1-6             -----------------------------AIIGLM-----
+#=GR 2y3j_G/1-6     PP .............................9*****.....
+2y3j_H/1-6             -----------------------------AIIGLM-----
+#=GR 2y3j_H/1-6     PP .............................9*****.....
+5my4_C/2-10            ---FRHDSGYEV----------------------------
+#=GR 5my4_C/2-10    PP ...7*******9............................
+5myo_E/2-10            ---FRHDSGYEV----------------------------
+#=GR 5myo_E/2-10    PP ...7*******9............................
+5vf1_A/2-8             ---------------KLVFFAE------------------
+#=GR 5vf1_A/2-8     PP ...............9*****9..................
+5vf1_B/2-8             ---------------KLVFFAE------------------
+#=GR 5vf1_B/2-8     PP ...............9*****9..................
+5vf1_C/2-8             ---------------KLVFFAE------------------
+#=GR 5vf1_C/2-8     PP ...............9*****9..................
+5vf1_D/2-8             ---------------KLVFFAE------------------
+#=GR 5vf1_D/2-8     PP ...............9*****9..................
+5vf1_E/2-8             ---------------KLVFFAE------------------
+#=GR 5vf1_E/2-8     PP ...............9*****9..................
+5vf1_F/2-8             ---------------KLVFFAE------------------
+#=GR 5vf1_F/2-8     PP ...............9*****9..................
+6dr4_A/2-16            ----------------CVFFCEDA-----AVIGLAV----
+#=GR 6dr4_A/2-16    PP ................7******7.....8888866....
+6dr4_B/2-16            ----------------CVFFCEDA-----AVIGLAV----
+#=GR 6dr4_B/2-16    PP ................7******7.....8888866....
+6dr4_C/2-16            ----------------CVFFCEDA-----AVIGLAV----
+#=GR 6dr4_C/2-16    PP ................7******7.....8888866....
+6dr4_D/2-16            ----------------CVFFCEDA-----AVIGLAV----
+#=GR 6dr4_D/2-16    PP ................7******7.....8888866....
+3g4s_F/41-54           ----------ERGSAELVFVAEDV----------------
+#=GR 3g4s_F/41-54   PP ..........556789*******9................
+3g6e_F/41-54           ----------ERGSAELVFVAEDV----------------
+#=GR 3g6e_F/41-54   PP ..........556789*******9................
+3g71_F/41-54           ----------ERGSAELVFVAEDV----------------
+#=GR 3g71_F/41-54   PP ..........556789*******9................
+1s72_F/42-55           ----------ERGSAELVFVAEDV----------------
+#=GR 1s72_F/42-55   PP ..........556789*******9................
+1vq4_F/42-55           ----------ERGSAELVFVAEDV----------------
+#=GR 1vq4_F/42-55   PP ..........556789*******9................
+1vq5_F/42-55           ----------ERGSAELVFVAEDV----------------
+#=GR 1vq5_F/42-55   PP ..........556789*******9................
+1vq6_F/42-55           ----------ERGSAELVFVAEDV----------------
+#=GR 1vq6_F/42-55   PP ..........556789*******9................
+1vq7_F/42-55           ----------ERGSAELVFVAEDV----------------
+#=GR 1vq7_F/42-55   PP ..........556789*******9................
+1vq8_F/42-55           ----------ERGSAELVFVAEDV----------------
+#=GR 1vq8_F/42-55   PP ..........556789*******9................
+1vq9_F/42-55           ----------ERGSAELVFVAEDV----------------
+#=GR 1vq9_F/42-55   PP ..........556789*******9................
+1vqk_F/42-55           ----------ERGSAELVFVAEDV----------------
+#=GR 1vqk_F/42-55   PP ..........556789*******9................
+1vql_F/42-55           ----------ERGSAELVFVAEDV----------------
+#=GR 1vql_F/42-55   PP ..........556789*******9................
+1vqm_F/42-55           ----------ERGSAELVFVAEDV----------------
+#=GR 1vqm_F/42-55   PP ..........556789*******9................
+1vqn_F/42-55           ----------ERGSAELVFVAEDV----------------
+#=GR 1vqn_F/42-55   PP ..........556789*******9................
+1vqo_F/42-55           ----------ERGSAELVFVAEDV----------------
+#=GR 1vqo_F/42-55   PP ..........556789*******9................
+1vqp_F/42-55           ----------ERGSAELVFVAEDV----------------
+#=GR 1vqp_F/42-55   PP ..........556789*******9................
+1yhq_F/42-55           ----------ERGSAELVFVAEDV----------------
+#=GR 1yhq_F/42-55   PP ..........556789*******9................
+1yi2_F/42-55           ----------ERGSAELVFVAEDV----------------
+#=GR 1yi2_F/42-55   PP ..........556789*******9................
+1yij_F/42-55           ----------ERGSAELVFVAEDV----------------
+#=GR 1yij_F/42-55   PP ..........556789*******9................
+1yit_F/42-55           ----------ERGSAELVFVAEDV----------------
+#=GR 1yit_F/42-55   PP ..........556789*******9................
+1yj9_F/42-55           ----------ERGSAELVFVAEDV----------------
+#=GR 1yj9_F/42-55   PP ..........556789*******9................
+1yjn_F/42-55           ----------ERGSAELVFVAEDV----------------
+#=GR 1yjn_F/42-55   PP ..........556789*******9................
+1yjw_F/42-55           ----------ERGSAELVFVAEDV----------------
+#=GR 1yjw_F/42-55   PP ..........556789*******9................
+2otj_F/42-55           ----------ERGSAELVFVAEDV----------------
+#=GR 2otj_F/42-55   PP ..........556789*******9................
+2otl_F/42-55           ----------ERGSAELVFVAEDV----------------
+#=GR 2otl_F/42-55   PP ..........556789*******9................
+2qa4_F/42-55           ----------ERGSAELVFVAEDV----------------
+#=GR 2qa4_F/42-55   PP ..........556789*******9................
+2qex_F/42-55           ----------ERGSAELVFVAEDV----------------
+#=GR 2qex_F/42-55   PP ..........556789*******9................
+3cc2_F/42-55           ----------ERGSAELVFVAEDV----------------
+#=GR 3cc2_F/42-55   PP ..........556789*******9................
+3cc4_F/42-55           ----------ERGSAELVFVAEDV----------------
+#=GR 3cc4_F/42-55   PP ..........556789*******9................
+3cc7_F/42-55           ----------ERGSAELVFVAEDV----------------
+#=GR 3cc7_F/42-55   PP ..........556789*******9................
+3cce_F/42-55           ----------ERGSAELVFVAEDV----------------
+#=GR 3cce_F/42-55   PP ..........556789*******9................
+3ccj_F/42-55           ----------ERGSAELVFVAEDV----------------
+#=GR 3ccj_F/42-55   PP ..........556789*******9................
+3ccl_F/42-55           ----------ERGSAELVFVAEDV----------------
+#=GR 3ccl_F/42-55   PP ..........556789*******9................
+3ccm_F/42-55           ----------ERGSAELVFVAEDV----------------
+#=GR 3ccm_F/42-55   PP ..........556789*******9................
+3ccq_F/42-55           ----------ERGSAELVFVAEDV----------------
+#=GR 3ccq_F/42-55   PP ..........556789*******9................
+3ccr_F/42-55           ----------ERGSAELVFVAEDV----------------
+#=GR 3ccr_F/42-55   PP ..........556789*******9................
+3ccs_F/42-55           ----------ERGSAELVFVAEDV----------------
+#=GR 3ccs_F/42-55   PP ..........556789*******9................
+3ccu_F/42-55           ----------ERGSAELVFVAEDV----------------
+#=GR 3ccu_F/42-55   PP ..........556789*******9................
+3ccv_F/42-55           ----------ERGSAELVFVAEDV----------------
+#=GR 3ccv_F/42-55   PP ..........556789*******9................
+3cd6_F/42-55           ----------ERGSAELVFVAEDV----------------
+#=GR 3cd6_F/42-55   PP ..........556789*******9................
+3cma_F/42-55           ----------ERGSAELVFVAEDV----------------
+#=GR 3cma_F/42-55   PP ..........556789*******9................
+3cme_F/42-55           ----------ERGSAELVFVAEDV----------------
+#=GR 3cme_F/42-55   PP ..........556789*******9................
+3cpw_F/42-55           ----------ERGSAELVFVAEDV----------------
+#=GR 3cpw_F/42-55   PP ..........556789*******9................
+3i55_F/42-55           ----------ERGSAELVFVAEDV----------------
+#=GR 3i55_F/42-55   PP ..........556789*******9................
+3i56_F/42-55           ----------ERGSAELVFVAEDV----------------
+#=GR 3i56_F/42-55   PP ..........556789*******9................
+4adx_F/42-55           ----------ERGSAELVFVAEDV----------------
+#=GR 4adx_F/42-55   PP ..........556789*******9................
+4v9f_F/42-55           ----------ERGSAELVFVAEDV----------------
+#=GR 4v9f_F/42-55   PP ..........556789*******9................
+1ffk_E/41-54           ----------ERGSAELVFVAEDV----------------
+#=GR 1ffk_E/41-54   PP ..........556789*******9................
+1jj2_F/41-54           ----------ERGSAELVFVAEDV----------------
+#=GR 1jj2_F/41-54   PP ..........556789*******9................
+1k73_H/41-54           ----------ERGSAELVFVAEDV----------------
+#=GR 1k73_H/41-54   PP ..........556789*******9................
+1k8a_H/41-54           ----------ERGSAELVFVAEDV----------------
+#=GR 1k8a_H/41-54   PP ..........556789*******9................
+1k9m_H/41-54           ----------ERGSAELVFVAEDV----------------
+#=GR 1k9m_H/41-54   PP ..........556789*******9................
+1kc8_H/41-54           ----------ERGSAELVFVAEDV----------------
+#=GR 1kc8_H/41-54   PP ..........556789*******9................
+1kd1_H/41-54           ----------ERGSAELVFVAEDV----------------
+#=GR 1kd1_H/41-54   PP ..........556789*******9................
+1kqs_F/41-54           ----------ERGSAELVFVAEDV----------------
+#=GR 1kqs_F/41-54   PP ..........556789*******9................
+1m1k_H/41-54           ----------ERGSAELVFVAEDV----------------
+#=GR 1m1k_H/41-54   PP ..........556789*******9................
+1m90_H/41-54           ----------ERGSAELVFVAEDV----------------
+#=GR 1m90_H/41-54   PP ..........556789*******9................
+1n8r_H/41-54           ----------ERGSAELVFVAEDV----------------
+#=GR 1n8r_H/41-54   PP ..........556789*******9................
+1nji_H/41-54           ----------ERGSAELVFVAEDV----------------
+#=GR 1nji_H/41-54   PP ..........556789*******9................
+1q7y_H/41-54           ----------ERGSAELVFVAEDV----------------
+#=GR 1q7y_H/41-54   PP ..........556789*******9................
+1q81_H/41-54           ----------ERGSAELVFVAEDV----------------
+#=GR 1q81_H/41-54   PP ..........556789*******9................
+1q82_H/41-54           ----------ERGSAELVFVAEDV----------------
+#=GR 1q82_H/41-54   PP ..........556789*******9................
+1q86_H/41-54           ----------ERGSAELVFVAEDV----------------
+#=GR 1q86_H/41-54   PP ..........556789*******9................
+1qvf_F/41-54           ----------ERGSAELVFVAEDV----------------
+#=GR 1qvf_F/41-54   PP ..........556789*******9................
+1qvg_F/41-54           ----------ERGSAELVFVAEDV----------------
+#=GR 1qvg_F/41-54   PP ..........556789*******9................
+1w2b_F/41-54           ----------ERGSAELVFVAEDV----------------
+#=GR 1w2b_F/41-54   PP ..........556789*******9................
+3cxc_F/41-54           ----------ERGSAELVFVAEDV----------------
+#=GR 3cxc_F/41-54   PP ..........556789*******9................
+3ow2_F/41-54           ----------ERGSAELVFVAEDV----------------
+#=GR 3ow2_F/41-54   PP ..........556789*******9................
+6o3v_A/311-330         ------DTPYSSIHHKELFFAKDIGK--------------
+#=GR 6o3v_A/311-330 PP ......56789999**********95..............
+6o3v_B/311-330         ------DTPYSSIHHKELFFAKDIGK--------------
+#=GR 6o3v_B/311-330 PP ......56789999**********95..............
+6o3v_C/311-330         ------DTPYSSIHHKELFFAKDIGK--------------
+#=GR 6o3v_C/311-330 PP ......56789999**********95..............
+6o6b_A/311-330         ------DTPYSSIHHKELFFAKDIGK--------------
+#=GR 6o6b_A/311-330 PP ......56789999**********95..............
+6o6b_B/311-330         ------DTPYSSIHHKELFFAKDIGK--------------
+#=GR 6o6b_B/311-330 PP ......56789999**********95..............
+6o6b_C/311-330         ------DTPYSSIHHKELFFAKDIGK--------------
+#=GR 6o6b_C/311-330 PP ......56789999**********95..............
+6o6b_D/311-330         ------DTPYSSIHHKELFFAKDIGK--------------
+#=GR 6o6b_D/311-330 PP ......56789999**********95..............
+2x2z_A/415-431         ----------------------ECGSNTALIAGLAVGGV-
+#=GR 2x2z_A/415-431 PP ......................78****99********9.
+2x2z_B/415-431         ----------------------ECGSNTALIAGLAVGGV-
+#=GR 2x2z_B/415-431 PP ......................78****99********9.
+2x2z_D/415-431         ----------------------ECGSNTALIAGLAVGGV-
+#=GR 2x2z_D/415-431 PP ......................78****99********9.
+2x2z_E/415-431         ----------------------ECGSNTALIAGLAVGGV-
+#=GR 2x2z_E/415-431 PP ......................78****99********9.
+4n8n_A/15-27           --------------ESQVFLTEDVSAN-------------
+#=GR 4n8n_A/15-27   PP ..............678********99.............
+4n8n_B/15-27           --------------ESQVFLTEDVSAN-------------
+#=GR 4n8n_B/15-27   PP ..............678********99.............
+4n8n_C/15-27           --------------ESQVFLTEDVSAN-------------
+#=GR 4n8n_C/15-27   PP ..............678********99.............
+4n8n_D/15-27           --------------ESQVFLTEDVSAN-------------
+#=GR 4n8n_D/15-27   PP ..............678********99.............
+4n8o_A/15-27           --------------ESQVFLTEDVSAN-------------
+#=GR 4n8o_A/15-27   PP ..............678********99.............
+4n8o_B/15-27           --------------ESQVFLTEDVSAN-------------
+#=GR 4n8o_B/15-27   PP ..............678********99.............
+6kmm_A/11-28           ----KHQAGITTAHQTYVYFAA------------------
+#=GR 6kmm_A/11-28   PP ....799*************85..................
+6kmm_B/11-28           ----KHQAGITTAHQTYVYFAA------------------
+#=GR 6kmm_B/11-28   PP ....799*************85..................
+6kmm_C/11-28           ----KHQAGITTAHQTYVYFAA------------------
+#=GR 6kmm_C/11-28   PP ....799*************85..................
+6kmm_D/11-28           ----KHQAGITTAHQTYVYFAA------------------
+#=GR 6kmm_D/11-28   PP ....799*************85..................
+6kmm_E/11-28           ----KHQAGITTAHQTYVYFAA------------------
+#=GR 6kmm_E/11-28   PP ....799*************85..................
+6kmm_F/11-28           ----KHQAGITTAHQTYVYFAA------------------
+#=GR 6kmm_F/11-28   PP ....799*************85..................
+6kmn_A/11-28           ----KHQAGITTAHQTYVYFAA------------------
+#=GR 6kmn_A/11-28   PP ....799*************85..................
+6kmn_B/11-28           ----KHQAGITTAHQTYVYFAA------------------
+#=GR 6kmn_B/11-28   PP ....799*************85..................
+6kmn_C/11-28           ----KHQAGITTAHQTYVYFAA------------------
+#=GR 6kmn_C/11-28   PP ....799*************85..................
+6kmn_D/11-28           ----KHQAGITTAHQTYVYFAA------------------
+#=GR 6kmn_D/11-28   PP ....799*************85..................
+7dlk_A/11-28           ----KHQAGITTAHQTYVYFAA------------------
+#=GR 7dlk_A/11-28   PP ....799*************85..................
+7dlk_B/11-28           ----KHQAGITTAHQTYVYFAA------------------
+#=GR 7dlk_B/11-28   PP ....799*************85..................
+7dlk_C/11-28           ----KHQAGITTAHQTYVYFAA------------------
+#=GR 7dlk_C/11-28   PP ....799*************85..................
+7dlk_D/11-28           ----KHQAGITTAHQTYVYFAA------------------
+#=GR 7dlk_D/11-28   PP ....799*************85..................
+7dlk_E/11-28           ----KHQAGITTAHQTYVYFAA------------------
+#=GR 7dlk_E/11-28   PP ....799*************85..................
+7dlk_F/11-28           ----KHQAGITTAHQTYVYFAA------------------
+#=GR 7dlk_F/11-28   PP ....799*************85..................
+6dr5_A/2-9             ----------------CVFFCEDA----------------
+#=GR 6dr5_A/2-9     PP ................8******7................
+6dr5_B/2-9             ----------------CVFFCEDA----------------
+#=GR 6dr5_B/2-9     PP ................8******7................
+6dr5_C/2-9             ----------------CVFFCEDA----------------
+#=GR 6dr5_C/2-9     PP ................8******7................
+6dr5_D/2-9             ----------------CVFFCEDA----------------
+#=GR 6dr5_D/2-9     PP ................8******7................
+6dr5_E/2-9             ----------------CVFFCEDA----------------
+#=GR 6dr5_E/2-9     PP ................8******7................
+6dr5_F/2-9             ----------------CVFFCEDA----------------
+#=GR 6dr5_F/2-9     PP ................8******7................
+3pzz_A/1-6             ----------------------------GAIIGL------
+#=GR 3pzz_A/1-6     PP ............................9****9......
+3pzz_B/1-6             ----------------------------GAIIGL------
+#=GR 3pzz_B/1-6     PP ............................9****9......
+7pkx_A/64-81           ----KHQAGITTAHQTYVYFAA------------------
+#=GR 7pkx_A/64-81   PP ....799*************85..................
+7pkx_B/64-81           ----KHQAGITTAHQTYVYFAA------------------
+#=GR 7pkx_B/64-81   PP ....799*************85..................
+7pl0_A/64-81           ----KHQAGITTAHQTYVYFAA------------------
+#=GR 7pl0_A/64-81   PP ....799*************85..................
+7pl0_B/64-81           ----KHQAGITTAHQTYVYFAA------------------
+#=GR 7pl0_B/64-81   PP ....799*************85..................
+7pl0_C/64-81           ----KHQAGITTAHQTYVYFAA------------------
+#=GR 7pl0_C/64-81   PP ....799*************85..................
+7pl0_D/64-81           ----KHQAGITTAHQTYVYFAA------------------
+#=GR 7pl0_D/64-81   PP ....799*************85..................
+1h8m_A/38-53           --------------QFMTFFAETVASRTGA----------
+#=GR 1h8m_A/38-53   PP ..............6788********9998..........
+1iou_A/38-53           --------------QFMTFFAETVASRTGA----------
+#=GR 1iou_A/38-53   PP ..............6788********9998..........
+3bw6_A/42-57           --------------QFMTFFAETVASRTGA----------
+#=GR 3bw6_A/42-57   PP ..............6788********9998..........
+2cu8_A/16-27           --------------DKTVYFAEKVSS--------------
+#=GR 2cu8_A/16-27   PP ..............589*******98..............
+4rou_A/188-203         ---------EEVQKQASCFFADDIS---------------
+#=GR 4rou_A/188-203 PP .........59************97...............
+4rou_B/188-203         ---------EEVQKQASCFFADDIS---------------
+#=GR 4rou_B/188-203 PP .........59************97...............
+1mxq_A/4-11            ---------------------------KDAFIGLM-----
+#=GR 1mxq_A/4-11    PP ...........................88******.....
+5lfy_A/1-10            DAEFRHHSGY------------------------------
+#=GR 5lfy_A/1-10    PP 89*******9..............................
+5lfy_B/1-10            DAEFRHHSGY------------------------------
+#=GR 5lfy_B/1-10    PP 89*******9..............................
+#=GC PP_cons           79********99999*9******9**********99***9
+#=GC RF                xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+//
