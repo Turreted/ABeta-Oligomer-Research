@@ -1,0 +1,17 @@
+Residue Name,Chain,PDB ResID,Ordinal ResID,SS Code,SS Full,Phi Angle,Psi Angle,Solvent Area,PDB Code
+ASP,A,1,1,H,AlphaHelix,360.00,-60.59,137.2,2BP4
+ALA,A,2,2,H,AlphaHelix,-61.03,-39.55,51.1,2BP4
+GLU,A,3,3,H,AlphaHelix,-57.96,-45.39,170.4,2BP4
+PHE,A,4,4,H,AlphaHelix,-66.06,-42.70,143.8,2BP4
+ARG,A,5,5,H,AlphaHelix,-62.10,-40.75,152.8,2BP4
+HIS,A,6,6,H,AlphaHelix,-69.71,-43.91,139.6,2BP4
+ASP,A,7,7,H,AlphaHelix,-62.00,-49.76,98.4,2BP4
+SER,A,8,8,H,AlphaHelix,-62.58,-36.57,48.3,2BP4
+GLY,A,9,9,H,AlphaHelix,-61.53,-51.21,40.0,2BP4
+TYR,A,10,10,H,AlphaHelix,-62.17,-45.64,130.5,2BP4
+GLU,A,11,11,H,AlphaHelix,-59.81,-51.14,76.0,2BP4
+VAL,A,12,12,H,AlphaHelix,-74.04,-29.45,89.0,2BP4
+HIS,A,13,13,H,AlphaHelix,-60.20,-34.72,135.0,2BP4
+HIS,A,14,14,H,AlphaHelix,-82.53,-65.42,95.4,2BP4
+GLN,A,15,15,C,Coil,-92.54,129.60,115.7,2BP4
+LYS,A,16,16,C,Coil,-165.73,360.00,228.4,2BP4
