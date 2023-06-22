@@ -39,7 +39,7 @@ def parse_dataset_freq(dataset_dir=DATASET_DIR) -> dict:
             # a substring of the total chain. Sequence the strcuture if it is.
             aa_sequence = list(chain["Residue Name"])
             if "".join(aa_sequence) in ABETA_LONG_STRING:
-                print(f"Sequencing {parsed_file} Chain {cname}")
+                #print(f"Sequencing {parsed_file} Chain {cname}")
                 
                 chain_start = int(min(chain["PDB ResID"]))
                 chain_stop  = int(max(chain["PDB ResID"]))
