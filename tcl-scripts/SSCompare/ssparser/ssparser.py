@@ -2,7 +2,7 @@ import pandas as pd
 import numpy as np
 import os
 
-from constants import *
+from .constants import *
 
 def parse_dataset_freq(dataset_dir=DATASET_DIR) -> dict:
     """

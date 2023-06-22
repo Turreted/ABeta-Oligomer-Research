@@ -1,0 +1,26 @@
+,Filename,Beta 1 Score,Turn Score,Beta 2 Score,Plddt,Plddt Target
+17,relaxed_model_2_pred_1.pdb,0.0,0.0,0.0,65.521,68.935
+16,relaxed_model_2_pred_3.pdb,0.0,0.0,0.0,65.158,68.583
+18,relaxed_model_2_pred_0.pdb,0.0,0.0,0.0,65.148,68.474
+15,relaxed_model_2_pred_2.pdb,0.0,0.0,0.0,65.013,68.516
+19,relaxed_model_2_pred_4.pdb,0.0,0.0,0.0,64.353,67.422
+3,relaxed_model_3_pred_1.pdb,0.301,0.0,0.353,63.984,65.376
+1,relaxed_model_3_pred_2.pdb,0.301,0.0,0.322,63.66,65.094
+0,relaxed_model_3_pred_4.pdb,0.243,0.0,0.28,62.717,63.792
+2,relaxed_model_3_pred_3.pdb,0.177,0.47,0.225,61.712,62.593
+12,relaxed_model_1_pred_0.pdb,0.0,0.393,0.0,61.471,62.755
+21,relaxed_model_5_pred_0.pdb,0.0,0.393,0.0,61.221,63.257
+6,relaxed_model_1_pred_4.pdb,0.0,0.393,0.0,61.163,62.313
+11,relaxed_model_1_pred_2.pdb,0.0,0.0,0.0,61.073,62.266
+10,relaxed_model_1_pred_3.pdb,0.0,0.393,0.0,61.013,62.042
+13,relaxed_model_1_pred_1.pdb,0.0,0.0,0.0,60.979,62.103
+22,relaxed_model_5_pred_1.pdb,0.0,0.393,0.0,59.143,60.576
+4,relaxed_model_3_pred_0.pdb,0.0,0.585,0.0,59.003,59.401
+7,relaxed_model_4_pred_1.pdb,0.0,0.0,0.0,55.916,54.99
+8,relaxed_model_4_pred_3.pdb,0.0,0.515,0.0,55.112,54.254
+5,relaxed_model_4_pred_0.pdb,0.0,0.364,0.0,54.009,53.227
+23,relaxed_model_5_pred_3.pdb,0.0,0.579,0.0,53.929,54.499
+24,relaxed_model_5_pred_2.pdb,0.0,0.579,0.0,53.869,54.03
+9,relaxed_model_4_pred_2.pdb,0.0,0.585,0.0,53.794,52.234
+20,relaxed_model_5_pred_4.pdb,0.0,0.793,0.0,53.728,54.338
+14,relaxed_model_4_pred_4.pdb,0.0,0.364,0.0,53.386,52.586

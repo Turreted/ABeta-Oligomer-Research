@@ -1,0 +1,6 @@
+,Filename,Beta 1 Score,Turn Score,Beta 2 Score,Plddt,Plddt Target
+0,relaxed_model_3_pred_0.pdb,0.0,0.785,0.0,57.116,58.875
+2,relaxed_model_1_pred_0.pdb,0.0,1.0,0.0,56.972,59.044
+4,relaxed_model_5_pred_0.pdb,0.0,1.0,0.0,56.728,58.643
+3,relaxed_model_2_pred_0.pdb,0.0,0.808,0.0,55.258,58.287
+1,relaxed_model_4_pred_0.pdb,0.354,0.685,0.173,54.242,57.001
