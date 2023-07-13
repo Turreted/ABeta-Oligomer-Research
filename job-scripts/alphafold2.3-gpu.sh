@@ -1,20 +1,28 @@
 #!/bin/bash
-#SBATCH --job-name=15-ch
+#SBATCH --job-name=af-gpu-test
 #SBATCH --account=pi-haddadian
 #SBATCH --partition=gpu
 #SBATCH --nodes=1
-#SBATCH --time=00:05:00
+#SBATCH --time=04:00:00
 #SBATCH --ntasks-per-node=1
 #SBATCH --cpus-per-task=16
 #SBATCH --gres=gpu:2
 #SBATCH --constraint=v100
 #SBATCH --mem=64G
 
-module load alphafold/2.3.2 cuda/11.3
+module load cuda/11.3
 
+# activate local conda env, only way to get Jaxlib + CudNN integration
+source /software/python-anaconda-2020.11-el8-x86_64/etc/profile.d/conda.sh
+conda activate alphafold-local
 
-echo "GPUs available: GPU ID $CUDA_VISIBLE_DEVICES"
-echo "CPU cores: $SLURM_CPUS_PER_TASK"
+# TensorFlow control
+export TF_FORCE_UNIFIED_MEMORY='1'
+# export TF_CPP_MIN_LOG_LEVEL=0 # enable for more debug output
+
+# JAX control
+export XLA_PYTHON_CLIENT_MEM_FRACTION='4.0'
+export XLA_PYTHON_CLIENT_ALLOCATOR=platform
 
 # Input parameters so we can easily configure input/output, all other parameters
 # should be modified from within the script
@@ -22,7 +30,6 @@ echo "CPU cores: $SLURM_CPUS_PER_TASK"
 #!/bin/bash
 # Description: AlphaFold non-docker version
 # Author: Sanjay Kumar Srikakulam
-
 usage() {
         echo ""
         echo "Please make sure all required parameters are given"
@@ -61,13 +68,9 @@ if [[ "$data_dir" == "" ]] ; then
     data_dir="/software/alphafold-data-2.3"
 fi
 
-if [[ "$model_preset" == "" ]] ; then
-    model_preset="multimer"
-fi
-
 if [[ "$model_preset" != "monomer" && "$model_preset" != "monomer_casp14" && "$model_preset" != "monomer_ptm" && "$model_preset" != "multimer" ]] ; then
-    echo "Unknown model preset! Using default ('monomer')"
-    model_preset="monomer"
+    echo "Unknown model preset! Using default (' mutimer')"
+    model_preset="multimer"
 fi
 
 DOWNLOAD_DATA_DIR=/software/alphafold-data-2.3
@@ -82,8 +85,7 @@ fi
 
 echo "Running Alphafold with arguments: $command_args"
 
-cd ~/alphafold-2.3.1/
-# Run AlphaFold with required parameters
+cd ~/alphafold-2.3.2
 
 python run_alphafold.py  \
   --data_dir=$DOWNLOAD_DATA_DIR  \
@@ -98,5 +100,6 @@ python run_alphafold.py  \
   --max_template_date=$max_template_date \
   --db_preset=full_dbs \
   --use_gpu_relax=true \
+  --models_to_relax=all \
   --output_dir=$output_dir \
   --fasta_paths=$fasta_path
